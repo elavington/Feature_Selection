@@ -1,0 +1,832 @@
+	Family	Genus	Sample	Nuccore_id	CP_accession	Nano_CP_Nuccore_ids
+P03631.1	Microviridae	Phix174microvirus	Phix174microvirus	1217068	P03631.1	1217068
+AGQ52061.1	Circoviridae	Circovirus	Porcine circovirus 2	523585945	AGQ52062.1	
+ARA68511.1	Circoviridae	Circovirus	Pigeon circovirus	1163768323	ARA68512.1	
+AIH07402.1	Circoviridae	Circovirus	Beak and feather disease virus	668727984	AIH07403.1	
+ABE03770.1	Circoviridae	Circovirus	Beak and feather disease virus	90994633	ABE03771.1	
+AHI85843.1	Circoviridae	Circovirus	Beak and feather disease virus	584292116	AHI85844.1	
+AUC67684.1	Circoviridae	Circovirus	Porcine circovirus 2	1301526283	AUC67683.1	
+AHB63242.1	Circoviridae	Circovirus	Beak and feather disease virus	563882198	AHB63243.1	
+AJW76660.1	Circoviridae	Circovirus	Porcine circovirus 2	770594915	AJW76661.1	
+AGS47835.1	Circoviridae	Circovirus	Farfantepenaeus duorarum circovirus	528890054	AGS47836.1	
+AEP25629.1	Circoviridae	Circovirus	Porcine circovirus 2	347811917	AEP25630.1	
+AEN19719.1	Circoviridae	Circovirus	Porcine circovirus 1	344915434	AEN19720.1	
+APA34682.1	Circoviridae	Circovirus	Porcine circovirus 2	1096361367	APA34683.1	
+ACN41959.1	Circoviridae	Circovirus	Porcine circovirus 2	224381716	ACN41960.1	
+AGI65334.1	Circoviridae	Circovirus	Porcine circovirus 2	476464883	AGI65335.1	
+ACV69947.1	Circoviridae	Circovirus	Muscovy duck circovirus	257815106	ACV69948.1	
+AGC55152.1	Circoviridae	Circovirus	Beak and feather disease virus	442557923	AGC55153.1	
+BAP81728.1	Circoviridae	Circovirus	Porcine circovirus 2	700587494	BAP81727.1	
+AEC32991.1	Circoviridae	Circovirus	Porcine circovirus 2	330688617	AEC32993.1	
+AGC55172.1	Circoviridae	Circovirus	Beak and feather disease virus	442557953	AGC55173.1	
+ABP68647.1	Circoviridae	Circovirus	Porcine circovirus 2	145423962	ABP68648.1	
+AEL89106.1	Circoviridae	Circovirus	Porcine circovirus 2	343131160	AEL89107.1	
+ADG07992.1	Circoviridae	Circovirus	Porcine circovirus 2	295413520	ADG07993.1	
+AEB54970.1	Circoviridae	Circovirus	Porcine circovirus 2	328905440	AEB54971.1	
+BAP81691.1	Circoviridae	Circovirus	Porcine circovirus 2	700587440	BAP81692.1	
+ADB96319.1	Circoviridae	Circovirus	Porcine circovirus 2	284811017	ADB96320.1	
+ACN59896.1	Circoviridae	Circovirus	Porcine circovirus 2	224591346	ACN59897.1	
+ABG48510.1	Circoviridae	Circovirus	Porcine circovirus 1	110005949	ABG48511.1	
+AAG30567.1	Circoviridae	Circovirus	Beak and feather disease virus	11119224	AAG30569.1	
+ARI44329.1	Circoviridae	Circovirus	Pigeon circovirus	1179696111	ARI44330.1	
+AHZ59370.1	Circoviridae	Circovirus	Porcine circovirus 2	633954921	AHZ59371.1	
+ABA54884.1	Circoviridae	Circovirus	Muscovy duck circovirus	76782221	ABA54885.1	
+AAM61274.1	Circoviridae	Circovirus	Porcine circovirus 1	21610536	AAM61273.1	
+ACF47578.1	Circoviridae	Circovirus	Beak and feather disease virus	194318365	ACF47579.1	
+AKI69662.1	Circoviridae	Circovirus	Beak and feather disease virus	823668899	AKI69663.1	
+AEL89160.1	Circoviridae	Circovirus	Porcine circovirus 2	343131232	AEL89161.1	
+APC23552.1	Circoviridae	Circovirus	Porcine circovirus 1	1101566713	APC23551.1	
+ADG08016.1	Circoviridae	Circovirus	Porcine circovirus 2	295413556	ADG08017.1	
+AHH31444.1	Circoviridae	Circovirus	Columbid circovirus	576638325	AHH31445.1	
+ASF79484.1	Circoviridae	Circovirus	Porcine circovirus 2	1212283852	ASF79485.1	
+AIT52870.1	Circoviridae	Circovirus	Beak and feather disease virus	697004421	AIT52871.1	
+AGX27425.1	Circoviridae	Circovirus	Beak and feather disease virus	549444849	AGX27426.1	
+AEW70740.1	Circoviridae	Circovirus	Silurus glanis circovirus	365269054	AEW70739.1	
+BAP81707.1	Circoviridae	Circovirus	Porcine circovirus 2	700587464	BAP81708.1	
+ACV69949.1	Circoviridae	Circovirus	Muscovy duck circovirus	257815109	ACV69950.1	
+ACN41977.1	Circoviridae	Circovirus	Porcine circovirus 2	224381743	ACN41978.1	
+AKM52583.1	Circoviridae	Circovirus	Goose circovirus	835278456	AKM52584.1	
+ANM47742.1	Circoviridae	Circovirus	Porcine circovirus 2	1038835418	ANM47744.1	
+BAP81678.1	Circoviridae	Circovirus	Porcine circovirus 2	700587419	BAP81677.1	
+AEL89157.1	Circoviridae	Circovirus	Porcine circovirus 2	343131228	AEL89158.1	
+ACB38242.1	Circoviridae	Circovirus	Porcine circovirus 2	170791150	ACB38243.1	
+ABI93799.1	Circoviridae	Circovirus	Porcine circovirus 2	115299721	ABI93800.1	
+ACN59888.1	Circoviridae	Circovirus	Porcine circovirus 2	224591334	ACN59889.1	
+AAZ68044.2	Circoviridae	Circovirus	Columbid circovirus	74136914	AAZ68045.2	
+ABQ10606.1	Circoviridae	Circovirus	Porcine circovirus 2	146217082	ABQ10607.1	
+ACZ06083.1	Circoviridae	Circovirus	Porcine circovirus 2	268527812	ACZ06084.1	
+AIJ28590.1	Circoviridae	Circovirus	Porcine circovirus 1	672442858	AIJ28591.1	
+AOS89456.1	Circoviridae	Circovirus	Goose circovirus	1071928918	AOS89457.1	
+AHX56382.1	Circoviridae	Circovirus	Beak and feather disease virus	614661664	AHX56383.1	
+AKT73320.1	Circoviridae	Circovirus	Porcine circovirus 2	908841151	AKT73322.1	
+ADD62475.1	Circoviridae	Circovirus	Human stool-associated circular virus NG13	290783646	ADD62476.1	
+ADY62619.1	Circoviridae	Circovirus	Beak and feather disease virus	324975404	ADY62620.1	
+ABW76694.1	Circoviridae	Circovirus	Porcine circovirus 2 R0255/209/03	158699274	ABW76695.1	
+AIX11626.1	Circoviridae	Circovirus	Bat circovirus POA/2012/I	723005619	AIX11627.1	
+AIW81531.1	Circoviridae	Circovirus	Porcine circovirus 2	717648768	AIW81532.1	
+AMX23797.1	Circoviridae	Circovirus	Porcine circovirus 2	1016564227	AMX23798.1	
+AHX56402.1	Circoviridae	Circovirus	Beak and feather disease virus	614661694	AHX56403.1	
+BAP81737.1	Circoviridae	Circovirus	Porcine circovirus 2	700587509	BAP81738.1	
+APZ76787.1	Circoviridae	Circovirus	Porcine circovirus 2	1139420704	APZ76788.1	
+AAK60462.1	Circoviridae	Circovirus	Porcine circovirus 2	14422165	AAK60463.1	
+AEN03327.1	Circoviridae	Circovirus	Porcine circovirus 2	344227266	AEN03326.1	
+ARI44299.1	Circoviridae	Circovirus	Pigeon circovirus	1179696065	ARI44300.1	
+AOS89452.1	Circoviridae	Circovirus	Goose circovirus	1071928912	AOS89453.1	
+AJB29387.1	Circoviridae	Circovirus	Beak and feather disease virus	742523410	AJB29388.1	
+ACS37562.1	Circoviridae	Circovirus	Porcine circovirus 2	240002583	ACS37563.1	
+ASU92195.1	Circoviridae	Circovirus	Bat circovirus	1235975417	ASU92196.1	
+AJF23751.1	Circoviridae	Circovirus	Porcine circovirus 2	749635826	AJF23752.1	
+ARI44279.1	Circoviridae	Circovirus	Pigeon circovirus	1179696035	ARI44280.1	
+ASU92187.1	Circoviridae	Circovirus	Bat circovirus	1235975405	ASU92188.1	
+ABA60803.1	Circoviridae	Circovirus	Porcine circovirus 2 strain SD3	77021898	ABA60804.1	
+AOS89492.1	Circoviridae	Circovirus	Goose circovirus	1071928972	AOS89493.1	
+AFZ93244.1	Circoviridae	Circovirus	Porcine circovirus 2	429490262	AFZ93245.1	
+AKC34835.1	Circoviridae	Circovirus	Duck circovirus	807013812	AKC34836.1	
+AHX56424.1	Circoviridae	Circovirus	Beak and feather disease virus	614661727	AHX56425.1	
+BAI68103.1	Circoviridae	Circovirus	Beak and feather disease virus	288269639	BAI68104.1	
+AAM61266.1	Circoviridae	Circovirus	Porcine circovirus 2	21610530	AAM61265.1	
+AER62095.1	Circoviridae	Circovirus	Columbid circovirus	355387250	AER62096.1	
+AGC55226.1	Circoviridae	Circovirus	Beak and feather disease virus	442558034	AGC55227.1	
+ACO35247.1	Circoviridae	Circovirus	Beak and feather disease virus	225904211	ACO35249.1	
+CAC50261.1	Circoviridae	Circovirus	Goose circovirus	15141816	CAC50263.1	
+ACX47359.1	Circoviridae	Circovirus	Porcine circovirus 2	260618466	ACX47360.1	
+ACL99811.1	Circoviridae	Circovirus	Muscovy duck circovirus	221148400	ACL99812.1	
+BAP81696.1	Circoviridae	Circovirus	Porcine circovirus 2	700587446	BAP81695.1	
+ARI44293.1	Circoviridae	Circovirus	Pigeon circovirus	1179696056	ARI44294.1	
+ABV21961.1	Circoviridae	Circovirus	Porcine circovirus 2	157092214	ABV21962.1	
+AHH31423.1	Circoviridae	Circovirus	Columbid circovirus	576638291	AHH31422.1	
+AAL58397.1	Circoviridae	Circovirus	Porcine circovirus 2	18071939	AAL58396.1	
+ANZ73072.1	Circoviridae	Circovirus	Beak and feather disease virus	1050793080	ANZ73071.1	
+AKP92802.1	Circoviridae	Circovirus	Beak and feather disease virus	874346883	AKP92803.1	
+ABB59613.1	Circoviridae	Circovirus	Starling circovirus	81176719	ABB59615.1	
+ACS37582.1	Circoviridae	Circovirus	Porcine circovirus 2	240002613	ACS37583.1	
+ADD62451.1	Circoviridae	Cyclovirus	Cyclovirus PK5006	290783610	ADD62452.1	
+ADD62453.1	Circoviridae	Cyclovirus	Cyclovirus PK5034	290783613	ADD62454.1	
+ADD62455.1	Circoviridae	Cyclovirus	Cyclovirus PK5222	290783616	ADD62456.1	
+ADD62457.1	Circoviridae	Cyclovirus	Cyclovirus PK5510	290783619	ADD62458.1	
+ADD62459.1	Circoviridae	Cyclovirus	Cyclovirus PK6197	290783622	ADD62460.1	
+ADD62461.1	Circoviridae	Cyclovirus	Cyclovirus Chimp11	290783625	ADD62462.1	
+ADD62463.1	Circoviridae	Cyclovirus	Cyclovirus Chimp12	290783628	ADD62464.1	
+ADD62471.1	Circoviridae	Cyclovirus	Cyclovirus NG12	290783640	ADD62472.1	
+ADD62473.1	Circoviridae	Cyclovirus	Cyclovirus NG14	290783643	ADD62474.1	
+ADD62477.1	Circoviridae	Cyclovirus	Cyclovirus TN25	290783649	ADD62478.1	
+ADD62479.1	Circoviridae	Cyclovirus	Cyclovirus TN18	290783652	ADD62480.1	
+ADI48251.1	Circoviridae	Cyclovirus	Bat cyclovirus GF-4c	297598942	ADI48252.1	
+ADU76993.1	Circoviridae	Cyclovirus	Cyclovirus PKbeef23/PAK/2009	316989865	ADU76994.1	
+ADU76997.1	Circoviridae	Cyclovirus	Cyclovirus PKgoat11/PAK/2009	316989871	ADU76998.1	
+ADU76999.1	Circoviridae	Cyclovirus	Cyclovirus bat/USA/2009	316989874	ADU77000.1	
+ADU77011.1	Circoviridae	Cyclovirus	Cyclovirus NGchicken8/NGA/2009	316989892	ADU77012.1	
+ADU77013.1	Circoviridae	Cyclovirus	Cyclovirus NGchicken15/NGA/2009	316989895	ADU77014.1	
+ADY17982.1	Circoviridae	Cyclovirus	Dragonfly associated cyclovirus 1	324309753	ADY17983.1	
+ADY17984.1	Circoviridae	Cyclovirus	Dragonfly associated cyclovirus 1	324309756	ADY17985.1	
+ADY17986.1	Circoviridae	Cyclovirus	Dragonfly associated cyclovirus 1	324309759	ADY17987.1	
+ADY17990.1	Circoviridae	Cyclovirus	Dragonfly associated cyclovirus 1	324309765	ADY17991.1	
+ADY18000.1	Circoviridae	Cyclovirus	Dragonfly associated cyclovirus 1	324309780	ADY18001.1	
+ADY18006.1	Circoviridae	Cyclovirus	Dragonfly associated cyclovirus 1	324309789	ADY18007.1	
+ADY18014.1	Circoviridae	Cyclovirus	Dragonfly associated cyclovirus 1	324309801	ADY18015.1	
+ADY18016.1	Circoviridae	Cyclovirus	Dragonfly associated cyclovirus 1	324309804	ADY18017.1	
+AEL87784.1	Circoviridae	Cyclovirus	Bat circovirus ZS/China/2011	343113723	AEL87785.1	
+AEL87786.1	Circoviridae	Cyclovirus	Bat associated cyclovirus 2	343113726	AEL87787.1	
+AEL87790.1	Circoviridae	Cyclovirus	Bat associated cyclovirus 3	343113732	AEL87791.1	
+AEL87792.1	Circoviridae	Cyclovirus	Bat associated cyclovirus 4	343113735	AEL87793.1	
+AFS65279.1	Circoviridae	Cyclovirus	Dragonfly associated cyclovirus 5	406870723	AFS65278.1	
+AFS65283.1	Circoviridae	Cyclovirus	Dragonfly associated cyclovirus 4	406870729	AFS65282.1	
+AFS65285.1	Circoviridae	Cyclovirus	Dragonfly associated cyclovirus 3	406870732	AFS65284.1	
+AFS65286.1	Circoviridae	Cyclovirus	Dragonfly associated cyclovirus 3	406870732	AFS65284.1	
+AFS65288.1	Circoviridae	Cyclovirus	Dragonfly associated cyclovirus 2	406870736	AFS65287.1	
+AFS65292.1	Circoviridae	Cyclovirus	Dragonfly associated cyclovirus 1	406870742	AFS65291.1	
+AFS65294.1	Circoviridae	Cyclovirus	Dragonfly associated cyclovirus 1	406870745	AFS65293.1	
+AGC84157.1	Circoviridae	Cyclovirus	Cockroach associated cyclovirus 1	443418567	AGC84156.1	
+AGC84158.1	Circoviridae	Cyclovirus	Cockroach associated cyclovirus 1	443418567	AGC84156.1	
+AGC84159.1	Circoviridae	Cyclovirus	Cockroach associated cyclovirus 1	443418567	AGC84156.1	
+AGJ74752.1	Circoviridae	Cyclovirus	Dragonfly associated cyclovirus 4	480306434	AGJ74751.1	
+AGJ74756.1	Circoviridae	Cyclovirus	Dragonfly associated cyclovirus 6	480306440	AGJ74755.1	
+AGJ74758.1	Circoviridae	Cyclovirus	Dragonfly associated cyclovirus 7	480306443	AGJ74757.1	
+AGJ74760.1	Circoviridae	Cyclovirus	Dragonfly associated cyclovirus 8	480306446	AGJ74759.1	
+AGN96211.1	Circoviridae	Cyclovirus	Human cyclovirus VS5700009	512130178	AGN96212.1	
+AGO59220.1	Circoviridae	Cyclovirus	Cyclovirus VN	514829143	AGO59221.1	
+AGO59222.1	Circoviridae	Cyclovirus	Cyclovirus VN	514829146	AGO59223.1	
+AHI42032.2	Circoviridae	Cyclovirus	Human associated cyclovirus 10	584595293	AHI42031.2	
+AIF75268.1	Circoviridae	Cyclovirus	Cyclovirus SL-108277	719857162	AIF75267.1	
+AII82237.1	Circoviridae	Cyclovirus	Feline cyclovirus	671722095	AII82238.1	
+AIX11625.1	Circoviridae	Cyclovirus	Bat circovirus POA/2012/VI	723005616	AIX11624.1	
+AIZ46815.1	Circoviridae	Cyclovirus	Swine cyclovirus	730230146	AIZ46816.1	
+AIZ46821.1	Circoviridae	Cyclovirus	Human cyclovirus VN-like	730230155	AIZ46822.1	
+AIZ46823.1	Circoviridae	Cyclovirus	Human cyclovirus VN-like	730230158	AIZ46824.1	
+AKE49355.1	Circoviridae	Cyclovirus	Cyclovirus NI-204	815860958	AKE49354.1	
+AKN50607.1	Circoviridae	Cyclovirus	Cyclovirus Equ1	850199433	AKN50608.1	
+ALO17914.1	Circoviridae	Cyclovirus	Indian encephalitis associated cyclovirus	1198292134	ALO17913.1	
+AMH87650.1	Circoviridae	Cyclovirus	Pacific flying fox associated cyclovirus-1	992391284	AMH87649.1	
+AMH87652.1	Circoviridae	Cyclovirus	Pacific flying fox associated cyclovirus-2	992391287	AMH87651.1	
+AMH87654.1	Circoviridae	Cyclovirus	Pacific flying fox associated cyclovirus-3	992391290	AMH87653.1	
+AMH87656.1	Circoviridae	Cyclovirus	Pacific flying fox associated cyclovirus-3	992391293	AMH87655.1	
+AOW44153.1	Circoviridae	Cyclovirus	Mouse cyclovirus	1079708359	AOW44154.1	
+ARO38325.1	Circoviridae	Cyclovirus	Cyclovirus sp.	1189354690	ARO38326.1	
+ARV76500.1	Circoviridae	Cyclovirus	Duck associated cyclovirus 1	1199907156	ARV76499.1	
+BAP81869.1	Circoviridae	Cyclovirus	Cyclovirus ZM32	701456358	BAP81868.1	
+BAP81871.1	Circoviridae	Cyclovirus	Cyclovirus ZM01	701456361	BAP81870.1	
+BAP81873.1	Circoviridae	Cyclovirus	Cyclovirus ZM36a	701456364	BAP81872.1	
+BAP81875.1	Circoviridae	Cyclovirus	Cyclovirus ZM38	701456367	BAP81874.1	
+BAP81877.1	Circoviridae	Cyclovirus	Cyclovirus ZM41	701456370	BAP81876.1	
+BAP81879.1	Circoviridae	Cyclovirus	Cyclovirus ZM50a	701456373	BAP81878.1	
+BAP81881.1	Circoviridae	Cyclovirus	Cyclovirus ZM54	701456376	BAP81880.1	
+BAP81883.1	Circoviridae	Cyclovirus	Cyclovirus ZM62	701456379	BAP81882.1	
+BAS01237.1	Circoviridae	Cyclovirus	Cyclovirus TsCyV-1_JP-NUBS-2014	891166654	BAS01236.1	
+ACA35253.1	Geminiviridae	Becurtovirus	Beet curly top Iran virus-[Yazd]	168988132	ACA35251.1	
+ACA35258.1	Geminiviridae	Becurtovirus	Beet curly top Iran virus-[Sh2]	168988138	ACA35256.1	
+ACA35293.1	Geminiviridae	Becurtovirus	Beet curly top Iran virus-[K]	168988144	ABG34296.2	
+ADV51529.1	Geminiviridae	Becurtovirus	Spinach curly top Arizona virus	319412654	ADV51528.1	
+AFK14031.1	Geminiviridae	Becurtovirus	Beet curly top Iran virus	387966634	AFK14029.1	
+AFK14051.1	Geminiviridae	Becurtovirus	Beet curly top Iran virus	387966658	AFK14049.1	
+AFK14071.1	Geminiviridae	Becurtovirus	Beet curly top Iran virus	387966682	AFK14069.1	
+AGD79154.1	Geminiviridae	Becurtovirus	Beet curly top Iran virus	443900421	AGD79152.1	
+AGD79159.1	Geminiviridae	Becurtovirus	Beet curly top Iran virus	443900427	AGD79157.1	
+AGD79169.1	Geminiviridae	Becurtovirus	Beet curly top Iran virus	443900439	AGD79167.1	
+AGD79179.1	Geminiviridae	Becurtovirus	Beet curly top Iran virus	443900451	AGD79177.1	
+AGD79184.1	Geminiviridae	Becurtovirus	Beet curly top Iran virus	443900457	AGD79182.1	
+AHC03613.1	Geminiviridae	Becurtovirus	Beet curly top Iran virus	564797245	AHC03611.1	
+API65449.1	Geminiviridae	Becurtovirus	Beet curly top Iran virus	1111690316	API65448.1	
+API65450.1	Geminiviridae	Becurtovirus	Beet curly top Iran virus	1111690316	API65448.1	
+AGD98635.1	Geminiviridae	Begomovirus	Sida mottle Alagoas virus	444300516	AGD98632.1	
+ADW09066.1	Geminiviridae	Begomovirus	Honeysuckle yellow vein virus	320091752	ADW09065.1	
+AEY77426.1	Geminiviridae	Begomovirus	Chilli leaf curl virus	373876705	AEY77423.1	
+ADD92127.1	Geminiviridae	Begomovirus	African cassava mosaic virus	291292519	ADD92126.1	
+AIP89524.1	Geminiviridae	Begomovirus	East African cassava mosaic Kenya virus	685877877	AIP89521.1	
+AND95540.1	Geminiviridae	Begomovirus	Ageratum yellow vein China virus	1027589625	AND95538.1	
+ACP41023.1	Geminiviridae	Begomovirus	Cotton leaf curl Gezira virus	227809604	ACP41020.1	
+AIF75234.1	Geminiviridae	Begomovirus	Watermelon chlorotic stunt virus	665512868	AIF75230.1	
+ADO41066.1	Geminiviridae	Begomovirus	Tomato leaf curl New Delhi virus India:Bangalore:OY135:2005] India:Bangalore:OY135:2005]	308744211	ADO41062.1	
+ADV15505.1	Geminiviridae	Begomovirus	Sida micrantha mosaic virus - Rhombifolia Bolivia:Cerro Fraile 2:2007] Bolivia:Cerro Fraile 2:2007]	317183590	ADV15504.1	
+ASR73664.1	Geminiviridae	Begomovirus	Sida Brazil virus	1227482832	ASR73663.1	
+AFP87132.1	Geminiviridae	Begomovirus	Soybean chlorotic spot virus	400532024	AFP87130.1	
+AHF50403.1	Geminiviridae	Begomovirus	Jatropha mosaic virus	572169405	AHF50402.1	
+AEI17654.1	Geminiviridae	Begomovirus	Cotton leaf curl Kokhran virus	336112652	AEI17651.1	
+API65468.1	Geminiviridae	Begomovirus	Vernonia crinkle virus	1111690362	API65472.1	
+CAH17668.1	Geminiviridae	Begomovirus	Stachytarpheta leaf curl virus - Hn34] Hn34]	51127362	CAH17665.1	
+AIP87972.1	Geminiviridae	Begomovirus	African cassava mosaic virus	685876061	AIP87969.1	
+ALO78622.1	Geminiviridae	Begomovirus	Cotton leaf curl Kokhran virus - Burewala	953696798	ALO78619.1	
+AQX77521.1	Geminiviridae	Begomovirus	Mungbean yellow mosaic India virus	1154339767	AQX77519.1	
+BAC55598.1	Geminiviridae	Begomovirus	Ageratum yellow vein virus-[Tomato]	27808424	BAC55595.1	
+ALB26116.1	Geminiviridae	Begomovirus	Okra enation leaf curl virus	923142722	ALB26113.1	
+CAZ40054.1	Geminiviridae	Begomovirus	Clerodendrum golden mosaic China virus	238955497	CAZ40051.1	
+AAP47124.1	Geminiviridae	Begomovirus	Squash leaf curl China virus - K] K]	31323681	AAP47123.1	
+CAI26261.2	Geminiviridae	Begomovirus	Tomato yellow leaf curl virus - Mild	156138568	CAI26258.2	
+AFD54539.1	Geminiviridae	Begomovirus	Macroptilium yellow spot virus	380448939	AFD54540.1	
+ANT48223.1	Geminiviridae	Begomovirus	Sweet potato leaf curl Canary virus	1044453581	ANT48224.1	
+BAB86390.1	Geminiviridae	Begomovirus	Tobacco leaf curl Kochi virus-[KK]	19570905	BAB86387.1	
+ANW72369.1	Geminiviridae	Begomovirus	Malvastrum yellow vein Honghe virus	1048075318	ANW72364.1	
+AJE24810.1	Geminiviridae	Begomovirus	Tomato leaf curl Patna virus	747172784	AJE24807.1	
+BAG68467.1	Geminiviridae	Begomovirus	Sweet potato leaf curl virus	195963285	BAG68464.1	
+AIP88542.1	Geminiviridae	Begomovirus	South African cassava mosaic virus	685876729	AIP88539.1	
+AID07494.1	Geminiviridae	Begomovirus	Euphorbia mosaic virus	656329883	AID07493.1	
+ADT70814.1	Geminiviridae	Begomovirus	Tomato leaf curl New Delhi virus-JID27	315020465	ADT70813.1	
+ABL09098.1	Geminiviridae	Begomovirus	Tomato leaf curl New Delhi virus - Potato] Potato]	118603296	ABL09096.1	
+AEN03364.1	Geminiviridae	Begomovirus	Tomato chlorotic leaf distortion virus-[Capsicum]	344263616	AEN03362.1	
+ANS14411.1	Geminiviridae	Begomovirus	Papaya leaf curl virus	1043327623	ANS14415.1	
+AFC37758.1	Geminiviridae	Begomovirus	Tomato leaf curl Palampur virus	378753858	AFC37755.1	
+AGA80992.1	Geminiviridae	Begomovirus	Tomato yellow mottle virus	430786166	AGA80991.1	
+AIJ03556.1	Geminiviridae	Begomovirus	Coccinia mosaic Tamil Nadu virus	672237942	AIJ03555.1	
+ALQ11426.1	Geminiviridae	Begomovirus	Rhynchosia golden mosaic Yucatan virus	957740753	ALQ11424.1	
+CAB91854.1	Geminiviridae	Begomovirus	Cotton leaf curl Multan virus-[Faisalabad3]	7960746	CAB91851.1	
+CBI70241.1	Geminiviridae	Begomovirus	Tomato leaf curl Namakely virus	290770627	CBI70238.1	
+ALB25954.1	Geminiviridae	Begomovirus	Okra enation leaf curl virus	923142533	ALB25951.1	
+AIP88565.1	Geminiviridae	Begomovirus	African cassava mosaic virus	685876756	AIP88562.1	
+CCM97059.1	Geminiviridae	Begomovirus	Cotton leaf curl Burewala virus	734500383	CCM97057.1	
+CAJ78140.1	Geminiviridae	Begomovirus	East African cassava mosaic virus	89330769	CAJ78137.1	
+CRI68351.1	Geminiviridae	Begomovirus	Pepper golden mosaic virus	821594702	CRI68348.1	
+AFA26464.1	Geminiviridae	Begomovirus	Pepper leaf curl Lahore virus-[Solanum capsicastrum]	374922622	AFA26461.1	
+ABL96306.1	Geminiviridae	Begomovirus	Crassocephalum yellow vein virus - Jinghong	119710187	ABL96303.1	
+ACK44132.1	Geminiviridae	Begomovirus	Tomato leaf curl New Delhi virus	217416945	ACK44128.1	
+ADK73351.1	Geminiviridae	Begomovirus	Papaya leaf curl virus	301343686	ADK73348.1	
+CAA71980.1	Geminiviridae	Begomovirus	Sida yellow vein virus	1845187	CAA71981.1	
+AEY68250.1	Geminiviridae	Begomovirus	Tomato mild yellow leaf curl Aragua virus	373254764	AEY68249.1	
+CAE52826.2	Geminiviridae	Begomovirus	Sweet potato leaf curl virus	77917417	CAE52823.1	
+CAI45391.1	Geminiviridae	Begomovirus	Senecio yellow mosaic virus	57996899	CAI45388.1	
+ASR80874.1	Geminiviridae	Begomovirus	Tomato yellow leaf curl virus	1227601126	ASR80871.1	
+AGZ91431.1	Geminiviridae	Begomovirus	Tomato leaf curl Gujarat virus	557315948	AGZ91428.1	
+AAK64554.1	Geminiviridae	Begomovirus	Cotton leaf curl Gezira virus-[Okra/Egypt]	18091751	AAK64553.1	
+CAZ40066.1	Geminiviridae	Begomovirus	Clerodendrum golden mosaic Jiangsu virus	238955513	CAZ40063.1	
+AAF82373.1	Geminiviridae	Begomovirus	Tomato leaf curl Sri Lanka virus	9022409	AAF82370.1	
+CAA07047.1	Geminiviridae	Begomovirus	East African cassava mosaic Malawi virus-Malawi[K]	3892573	CAA07045.1	
+CBA18068.1	Geminiviridae	Begomovirus	Euphorbia yellow mosaic virus	298103762	CBA18065.1	
+AOT83448.1	Geminiviridae	Begomovirus	Sida micrantha mosaic virus	1072901143	AOT83452.1	
+CAC85509.1	Geminiviridae	Begomovirus	Tomato yellow leaf curl China virus-Tb[Y10]	18076933	CAC85506.1	
+ACA61090.1	Geminiviridae	Begomovirus	Tomato leaf curl Cebu virus	169640041	ACA61089.1	
+AFB83432.1	Geminiviridae	Begomovirus	Cotton leaf curl Burewala virus	378407944	AFB83430.1	
+AER09329.1	Geminiviridae	Begomovirus	Cleome leaf crumple virus	353525186	AER09330.1	
+AIP89708.1	Geminiviridae	Begomovirus	African cassava mosaic virus	685878093	AIP89705.1	
+AGH27759.1	Geminiviridae	Begomovirus	Tomato yellow leaf curl virus	465487489	AGH27756.1	
+ABM91589.1	Geminiviridae	Begomovirus	Watermelon chlorotic stunt virus	124110401	ABM91588.1	
+AQT38106.1	Geminiviridae	Begomovirus	Tomato leaf curl New Delhi virus	1150195962	AQT38104.1	
+CAA44747.1	Geminiviridae	Begomovirus	Tomato yellow leaf curl Thailand virus-[1]	5731900	CAA44744.1	
+CRI06345.1	Geminiviridae	Begomovirus	Tomato yellow leaf curl virus - Il	909636396	CRI06342.1	
+BAK38557.1	Geminiviridae	Begomovirus	Tomato yellow leaf curl virus	334883197	BAK38554.1	
+AGH29565.1	Geminiviridae	Begomovirus	Blainvillea yellow spot virus	468184224	AGH29563.1	
+AIQ86222.1	Geminiviridae	Begomovirus	Squash leaf curl virus	689200149	AIQ86221.1	
+CAJ78134.1	Geminiviridae	Begomovirus	East African cassava mosaic virus	89330762	CAJ78131.1	
+ATG84429.1	Geminiviridae	Begomovirus	Tomato leaf curl Kerala virus	1249067990	ATG84427.1	
+AAK97536.1	Geminiviridae	Begomovirus	Rhynchosia golden mosaic virus-[Chiapas]	15420989	AAK97539.1	
+AEG89941.1	Geminiviridae	Begomovirus	East African cassava mosaic Kenya virus	334714317	AEG89939.1	
+AFU83186.1	Geminiviridae	Begomovirus	Bhendi yellow vein mosaic virus	408717575	AFU83187.1	
+CAI64608.1	Geminiviridae	Begomovirus	Sri Lankan cassava mosaic virus - India India:Kerala C4] India:Kerala C4]	61657636	CAI64605.1	
+AEY77838.1	Geminiviridae	Begomovirus	Chilli leaf curl virus	373880256	AEY77833.1	
+CCK73294.1	Geminiviridae	Begomovirus	East African cassava mosaic virus	530776354	CCK73291.1	
+AGI16834.1	Geminiviridae	Begomovirus	Sri Lankan cassava mosaic virus-India[Attur:2009]	471470023	AGI16832.1	
+AIP88098.1	Geminiviridae	Begomovirus	African cassava mosaic virus	685876208	AIP88095.1	
+CRK54650.1	Geminiviridae	Begomovirus	Tomato leaf curl New Delhi virus	1210278149	CRK54646.1	
+ACA60994.1	Geminiviridae	Begomovirus	Tomato leaf curl Philippines virus	169639929	ACA60993.1	
+CDW92191.1	Geminiviridae	Begomovirus	Tomato yellow leaf curl Mali virus	827475881	CDW92188.1	
+BAC55592.1	Geminiviridae	Begomovirus	Tomato leaf curl Java virus	27808417	BAC55589.1	
+AAK69590.1	Geminiviridae	Begomovirus	Mungbean yellow mosaic India virus-[Bangladesh]	14582665	AAK69588.1	
+ACT79063.1	Geminiviridae	Begomovirus	Tomato leaf curl Vietnam virus	254681948	ACT79060.1	
+ABS83258.1	Geminiviridae	Begomovirus	Sweet potato leaf curl Canary virus	240015542	ABS83257.1	
+CEN60845.1	Geminiviridae	Begomovirus	Tomato leaf curl Gujarat virus	959201580	CEN60842.1	
+AAF63746.1	Geminiviridae	Begomovirus	Bhendi yellow vein mosaic virus-[Madurai]	7546994	AAF63751.1	
+AOT83431.1	Geminiviridae	Begomovirus	Sida angular mosaic virus	1072901123	AOT83435.1	
+ADG36411.1	Geminiviridae	Begomovirus	Soybean mild mottle virus	295821088	ADG36410.1	
+AGH27789.1	Geminiviridae	Begomovirus	Tomato yellow leaf curl virus	465487537	AGH27786.1	
+CAJ98461.1	Geminiviridae	Begomovirus	Malvastrum leaf curl virus	113927077	CAJ98458.1	
+ABC87989.1	Geminiviridae	Begomovirus	Tomato yellow leaf curl Mali virus-[Ethiopia]	86277290	ABC87988.1	
+AFP53912.1	Geminiviridae	Capulavirus	French bean severe leaf curl virus	399892930	AFP53911.1	
+AHG95953.1	Geminiviridae	Capulavirus	French bean severe leaf curl virus	575498330	AHG95949.1	
+AKQ51600.1	Geminiviridae	Capulavirus	Alfalfa leaf curl virus	887516980	AKQ51599.1	
+AKQ51601.2	Geminiviridae	Capulavirus	Alfalfa leaf curl virus	887516980	AKQ51599.1	
+ANA76136.1	Geminiviridae	Capulavirus	Alfalfa leaf curl virus	1022610888	ANA76134.1	
+ANA76137.1	Geminiviridae	Capulavirus	Alfalfa leaf curl virus	1022610888	ANA76134.1	
+ANA76142.1	Geminiviridae	Capulavirus	Alfalfa leaf curl virus	1022610895	ANA76140.1	
+ANA76149.1	Geminiviridae	Capulavirus	Alfalfa leaf curl virus	1022610902	ANA76147.1	
+ANA76150.1	Geminiviridae	Capulavirus	Alfalfa leaf curl virus	1022610902	ANA76147.1	
+ANA76156.1	Geminiviridae	Capulavirus	Alfalfa leaf curl virus	1022610910	ANA76154.1	
+ANA76163.1	Geminiviridae	Capulavirus	Alfalfa leaf curl virus	1022610918	ANA76161.1	
+ANA76164.1	Geminiviridae	Capulavirus	Alfalfa leaf curl virus	1022610918	ANA76161.1	
+ANA76183.1	Geminiviridae	Capulavirus	Alfalfa leaf curl virus	1022610942	ANA76182.1	
+ANA76184.1	Geminiviridae	Capulavirus	Alfalfa leaf curl virus	1022610942	ANA76182.1	
+ANA76189.1	Geminiviridae	Capulavirus	Alfalfa leaf curl virus	1022610949	ANA76187.1	
+ANA76194.1	Geminiviridae	Capulavirus	Alfalfa leaf curl virus	1022610955	ANA76192.1	
+ANA76195.1	Geminiviridae	Capulavirus	Alfalfa leaf curl virus	1022610955	ANA76192.1	
+ANA76206.1	Geminiviridae	Capulavirus	Alfalfa leaf curl virus	1022610969	ANA76204.1	
+ANA76207.1	Geminiviridae	Capulavirus	Alfalfa leaf curl virus	1022610969	ANA76204.1	
+ANA76219.1	Geminiviridae	Capulavirus	Alfalfa leaf curl virus	1022610983	ANA76216.1	
+ANA76230.1	Geminiviridae	Capulavirus	Alfalfa leaf curl virus	1022610997	ANA76228.1	
+ANA76231.1	Geminiviridae	Capulavirus	Alfalfa leaf curl virus	1022610997	ANA76228.1	
+ANA76242.1	Geminiviridae	Capulavirus	Alfalfa leaf curl virus	1022611011	ANA76240.1	
+ANA76243.1	Geminiviridae	Capulavirus	Alfalfa leaf curl virus	1022611011	ANA76240.1	
+ANA76259.1	Geminiviridae	Capulavirus	Alfalfa leaf curl virus	1022611031	ANA76257.1	
+ANA76277.1	Geminiviridae	Capulavirus	Alfalfa leaf curl virus	1022611052	ANA76275.1	
+ANA76278.1	Geminiviridae	Capulavirus	Alfalfa leaf curl virus	1022611052	ANA76275.1	
+ANA76296.1	Geminiviridae	Capulavirus	Euphorbia caput-medusae latent virus	1022611073	ANA76294.1	
+ANA76297.1	Geminiviridae	Capulavirus	Euphorbia caput-medusae latent virus	1022611073	ANA76294.1	
+ANA76303.1	Geminiviridae	Capulavirus	Euphorbia caput-medusae latent virus	1022611081	ANA76301.1	
+ANA76304.1	Geminiviridae	Capulavirus	Euphorbia caput-medusae latent virus	1022611081	ANA76301.1	
+ANA76310.1	Geminiviridae	Capulavirus	Euphorbia caput-medusae latent virus	1022611089	ANA76308.1	
+ANA76311.1	Geminiviridae	Capulavirus	Euphorbia caput-medusae latent virus	1022611089	ANA76308.1	
+ANA76324.1	Geminiviridae	Capulavirus	Euphorbia caput-medusae latent virus	1022611105	ANA76322.1	
+ANA76325.1	Geminiviridae	Capulavirus	Euphorbia caput-medusae latent virus	1022611105	ANA76322.1	
+ANA76331.1	Geminiviridae	Capulavirus	Euphorbia caput-medusae latent virus	1022611113	ANA76329.1	
+ANA76332.1	Geminiviridae	Capulavirus	Euphorbia caput-medusae latent virus	1022611113	ANA76329.1	
+ANA76338.1	Geminiviridae	Capulavirus	Euphorbia caput-medusae latent virus	1022611121	ANA76336.1	
+ANA76339.1	Geminiviridae	Capulavirus	Euphorbia caput-medusae latent virus	1022611121	ANA76336.1	
+ANA76345.1	Geminiviridae	Capulavirus	Euphorbia caput-medusae latent virus	1022611129	ANA76343.1	
+ANA76346.1	Geminiviridae	Capulavirus	Euphorbia caput-medusae latent virus	1022611129	ANA76343.1	
+ANA76352.1	Geminiviridae	Capulavirus	Euphorbia caput-medusae latent virus	1022611137	ANA76350.1	
+ANA76353.1	Geminiviridae	Capulavirus	Euphorbia caput-medusae latent virus	1022611137	ANA76350.1	
+ANA76359.1	Geminiviridae	Capulavirus	Euphorbia caput-medusae latent virus	1022611145	ANA76357.1	
+ANA76360.1	Geminiviridae	Capulavirus	Euphorbia caput-medusae latent virus	1022611145	ANA76357.1	
+ANA76366.1	Geminiviridae	Capulavirus	Euphorbia caput-medusae latent virus	1022611153	ANA76364.1	
+ANA76367.1	Geminiviridae	Capulavirus	Euphorbia caput-medusae latent virus	1022611153	ANA76364.1	
+ANA76373.1	Geminiviridae	Capulavirus	Euphorbia caput-medusae latent virus	1022611161	ANA76371.1	
+ANA76374.1	Geminiviridae	Capulavirus	Euphorbia caput-medusae latent virus	1022611161	ANA76371.1	
+ANA76380.1	Geminiviridae	Capulavirus	Euphorbia caput-medusae latent virus	1022611169	ANA76378.1	
+ANA76381.1	Geminiviridae	Capulavirus	Euphorbia caput-medusae latent virus	1022611169	ANA76378.1	
+ANA76386.1	Geminiviridae	Capulavirus	Plantago lanceolata latent virus	1022611177	ANA76384.1	
+ANA76387.1	Geminiviridae	Capulavirus	Plantago lanceolata latent virus	1022611177	ANA76384.1	
+ANA76392.1	Geminiviridae	Capulavirus	Plantago lanceolata latent virus	1022611184	ANA76390.1	
+ANA76393.1	Geminiviridae	Capulavirus	Plantago lanceolata latent virus	1022611184	ANA76390.1	
+AQW44821.1	Geminiviridae	Capulavirus	French bean severe leaf curl virus	1152729615	AQW44820.1	
+ARQ32250.2	Geminiviridae	Capulavirus	Alfalfa leaf curl virus	1281072000	ARQ32249.2	
+ARQ32251.1	Geminiviridae	Capulavirus	Alfalfa leaf curl virus	1281072000	ARQ32249.2	
+CCV02660.1	Geminiviridae	Capulavirus	Euphorbia caput-medusae latent virus	521258515	CCV02658.1	
+CCV02667.1	Geminiviridae	Capulavirus	Euphorbia caput-medusae latent virus	521258523	CCV02665.1	
+CCV02856.1	Geminiviridae	Capulavirus	Euphorbia caput-medusae latent virus	521258531	CCV02854.1	
+AAB18926.1	Geminiviridae	Curtovirus	Horseradish curly top virus	1255058	AAB18924.1	
+AAC54875.1	Geminiviridae	Curtovirus	Beet mild curly top virus - Worland]	1336173	AAC54874.1	
+AAK59260.1	Geminiviridae	Curtovirus	Beet curly top virus - California Logan/Arabidopsis]	14290110	AAK59258.1	
+AAS86154.1	Geminiviridae	Curtovirus	Beet curly top virus	46254384	AAS86153.1	
+ABQ12764.1	Geminiviridae	Curtovirus	Beet curly top virus	146230722	ABQ12761.1	
+ABW74013.1	Geminiviridae	Curtovirus	Beet curly top virus	158562141	ABW74010.1	
+ACB97656.1	Geminiviridae	Curtovirus	Beet curly top virus	182636881	ACB97652.1	
+ACB97660.1	Geminiviridae	Curtovirus	Beet curly top virus	182636889	ACB97659.1	
+ACH48060.1	Geminiviridae	Curtovirus	Pepper yellow dwarf virus - New Mexico	197210074	ACH48057.1	
+ACM44491.1	Geminiviridae	Curtovirus	Beet curly top virus	222105827	ACM44488.1	
+ADM64623.2	Geminiviridae	Curtovirus	Spinach severe curly top virus	307334056	ADM64621.1	
+ADN84087.1	Geminiviridae	Curtovirus	Beet curly top virus	307646254	ADN84084.1	
+AFD23482.1	Geminiviridae	Curtovirus	Beet curly top virus	379995985	AFD23480.1	
+AFV31442.1	Geminiviridae	Curtovirus	Beet curly top virus	409194223	AFV31439.1	
+ALF37673.1	Geminiviridae	Curtovirus	Beet curly top virus	930010042	ALF37670.1	
+ALF37701.1	Geminiviridae	Curtovirus	Beet curly top virus	930010074	ALF37698.1	
+ALF37715.1	Geminiviridae	Curtovirus	Beet curly top virus	930010090	ALF37712.1	
+ALF37729.1	Geminiviridae	Curtovirus	Beet curly top virus	930010106	ALF37726.1	
+ALF37736.1	Geminiviridae	Curtovirus	Beet curly top virus	930010114	ALF37733.1	
+ALF37743.1	Geminiviridae	Curtovirus	Beet curly top virus	930010122	ALF37740.1	
+ALF37806.1	Geminiviridae	Curtovirus	Beet curly top virus	930010194	ALF37803.1	
+ALF37813.1	Geminiviridae	Curtovirus	Beet curly top virus	930010202	ALF37810.1	
+AMD16395.1	Geminiviridae	Curtovirus	Beet curly top virus	985578018	AMD16392.1	
+AMD16402.1	Geminiviridae	Curtovirus	Beet curly top virus	985578026	AMD16399.1	
+AMD16416.1	Geminiviridae	Curtovirus	Beet curly top virus	985578042	AMD16413.1	
+AMD16423.1	Geminiviridae	Curtovirus	Beet curly top virus	985578050	AMD16420.1	
+AMD16444.1	Geminiviridae	Curtovirus	Beet curly top virus	985578074	AMD16441.1	
+AMD16458.1	Geminiviridae	Curtovirus	Beet curly top virus	985578090	AMD16455.1	
+AMD16465.1	Geminiviridae	Curtovirus	Beet curly top virus	985578098	AMD16462.1	
+AMD16493.1	Geminiviridae	Curtovirus	Beet curly top virus	985578130	AMD16490.1	
+AMD16514.1	Geminiviridae	Curtovirus	Beet curly top virus	985578154	AMD16511.1	
+AMD16521.1	Geminiviridae	Curtovirus	Beet curly top virus	985578162	AMD16518.1	
+AMD16528.1	Geminiviridae	Curtovirus	Beet curly top virus	985578170	AMD16525.1	
+AMD16535.1	Geminiviridae	Curtovirus	Beet curly top virus	985578178	AMD16532.1	
+AMD16542.1	Geminiviridae	Curtovirus	Beet curly top virus	985578186	AMD16539.1	
+ANY59195.1	Geminiviridae	Curtovirus	Beet curly top virus	1049566946	ANY59194.1	
+ANY59210.1	Geminiviridae	Curtovirus	Beet curly top virus	1049566962	ANY59208.1	
+APB53916.1	Geminiviridae	Curtovirus	Beet curly top virus	1100613844	APB53913.1	
+APB53923.1	Geminiviridae	Curtovirus	Beet curly top virus	1100613852	APB53920.1	
+APB53930.1	Geminiviridae	Curtovirus	Beet curly top virus	1100613860	APB53927.1	
+APB53979.1	Geminiviridae	Curtovirus	Beet curly top virus	1100613916	APB53976.1	
+APB54014.1	Geminiviridae	Curtovirus	Beet curly top virus	1100613956	APB54011.1	
+APB54021.1	Geminiviridae	Curtovirus	Beet curly top virus	1100613964	APB54018.1	
+APB54063.1	Geminiviridae	Curtovirus	Beet curly top virus	1100614012	APB54060.1	
+APB54077.1	Geminiviridae	Curtovirus	Beet curly top virus	1100614028	APB54074.1	
+APB54084.1	Geminiviridae	Curtovirus	Beet curly top virus	1100614036	APB54081.1	
+APB54126.1	Geminiviridae	Curtovirus	Beet curly top virus	1100614084	APB54123.1	
+APB54140.1	Geminiviridae	Curtovirus	Beet curly top virus	1100614100	APB54137.1	
+APB54154.1	Geminiviridae	Curtovirus	Beet curly top virus	1100614116	APB54151.1	
+APB54175.1	Geminiviridae	Curtovirus	Beet curly top virus	1100614140	APB54172.1	
+APB54182.1	Geminiviridae	Curtovirus	Beet curly top virus	1100614148	APB54179.1	
+APB54210.1	Geminiviridae	Curtovirus	Beet curly top virus	1100614180	APB54207.1	
+ARR74675.1	Geminiviridae	Curtovirus	Pepper yellow dwarf virus - Mexico	1193829771	ARR74674.1	
+AFV73367.1	Geminiviridae	Grablovirus	Grapevine geminivirus	410519388	AFV73364.1	
+AHL69795.1	Geminiviridae	Grablovirus	Grapevine red blotch virus	594021570	AFI71938.1	
+AMN10092.1	Geminiviridae	Grablovirus	Grapevine red blotch virus	1002359476	AMN10089.1	
+AMQ35523.1	Geminiviridae	Grablovirus	Grapevine red blotch virus	1005925242	AMQ35520.1	
+AMQ35565.1	Geminiviridae	Grablovirus	Grapevine red blotch virus	1005925291	AMQ35562.1	
+CRL92590.1	Geminiviridae	Mastrevirus	Chickpea chlorotic dwarf virus	1210278168	CRL92589.1	
+AHM88386.1	Geminiviridae	Mastrevirus	Urochloa streak virus	595644587	AHM88384.1	
+CAP69810.1	Geminiviridae	Mastrevirus	Chickpea chlorotic dwarf virus	165993336	CAP69808.1	
+AGT45308.1	Geminiviridae	Mastrevirus	Chickpea chlorotic dwarf virus	530744962	AGT45307.1	
+AHX74128.1	Geminiviridae	Mastrevirus	Sugarcane white streak virus	617006694	AHX84146.1	
+ACF40510.1	Geminiviridae	Mastrevirus	Maize streak virus	194294908	ACF40509.1	
+CCW72628.1	Geminiviridae	Mastrevirus	Barley dwarf virus	549140570	CCW72627.1	
+AFN80590.1	Geminiviridae	Mastrevirus	Paspalum striate mosaic virus	395864082	AFN80588.1	
+APZ86044.1	Geminiviridae	Mastrevirus	Maize streak virus	1139736708	APZ86045.1	
+AGT45357.1	Geminiviridae	Mastrevirus	Chickpea chlorotic dwarf virus	530745022	AGT45355.1	
+AIY33418.1	Geminiviridae	Mastrevirus	Maize streak virus	725825599	AIY33415.1	
+AIY32768.1	Geminiviridae	Mastrevirus	Chickpea chlorotic dwarf virus	725826119	AIY32769.1	
+AIY33108.1	Geminiviridae	Mastrevirus	Chickpea chlorotic dwarf virus	725826544	AIY33109.1	
+AEL32196.1	Geminiviridae	Mastrevirus	Maize streak virus	342720169	AEL32195.1	
+AFD63001.1	Geminiviridae	Mastrevirus	Chickpea chlorosis Australia virus	380505382	AFD63000.1	
+AFC17174.1	Geminiviridae	Mastrevirus	Chickpea chlorotic dwarf virus	378529671	AFC17173.1	
+AFD63002.1	Geminiviridae	Mastrevirus	Chickpea chlorosis Australia virus	380505382	AFD63000.1	
+AAF97756.1	Geminiviridae	Mastrevirus	Maize streak virus - B[Vaalhart wheat]	9719344	AAF97754.1	
+AIT39772.1	Geminiviridae	Mastrevirus	Switchgrass mosaic-associated virus	696121134	AIT39770.1	
+ANO40450.1	Geminiviridae	Mastrevirus	Sugarcane striate virus	1041498344	ANO40449.1	
+AIY33166.1	Geminiviridae	Mastrevirus	Chickpea chlorotic dwarf virus	725826614	AIY33165.1	
+APM86254.1	Geminiviridae	Mastrevirus	Wheat dwarf virus	1114666790	APM86253.1	
+CRL92591.1	Geminiviridae	Mastrevirus	Chickpea chlorotic dwarf virus	1210278168	CRL92589.1	
+APZ86031.1	Geminiviridae	Mastrevirus	Maize streak virus	1139736693	APZ86033.1	
+AGT45380.1	Geminiviridae	Mastrevirus	Chickpea chlorotic dwarf virus	530745052	AGT45379.1	
+AHM88353.1	Geminiviridae	Mastrevirus	Maize streak virus	595644547	AHM88352.1	
+AHZ62881.1	Geminiviridae	Mastrevirus	Wheat dwarf virus	635009266	AHZ62879.1	
+AIY33238.1	Geminiviridae	Mastrevirus	Chickpea chlorotic dwarf virus	725826704	AIY33237.1	
+AEZ00923.1	Geminiviridae	Mastrevirus	Wheat dwarf virus	374256115	AEZ00922.1	
+ACF40483.1	Geminiviridae	Mastrevirus	Maize streak virus	194294872	ACF40482.1	
+AIY33180.1	Geminiviridae	Mastrevirus	Chickpea chlorotic dwarf virus	725826634	AIY33181.1	
+AIK26732.1	Geminiviridae	Mastrevirus	Maize streak virus	673386938	AIK26731.1	
+AEJ87206.2	Geminiviridae	Mastrevirus	Wheat dwarf India virus	402756055	AEJ87205.2	
+ACF40573.1	Geminiviridae	Mastrevirus	Maize streak virus	194294992	ACF40572.1	
+AAK73430.1	Geminiviridae	Mastrevirus	Maize streak virus - A[Ama]	14794640	AAK73428.1	
+ATL75558.1	Geminiviridae	Mastrevirus	Chickpea chlorotic dwarf virus	1264204175	ATL75556.1	
+AFD63082.1	Geminiviridae	Mastrevirus	Tobacco yellow dwarf virus-A	380505482	AFD63080.1	
+CAP69809.1	Geminiviridae	Mastrevirus	Chickpea chlorotic dwarf virus	165993336	CAP69808.1	
+AST11837.1	Geminiviridae	Mastrevirus	Maize striate mosaic virus	1229249310	AST11836.1	
+AIY32898.1	Geminiviridae	Mastrevirus	Chickpea chlorotic dwarf virus	725826279	AIY32897.1	
+AFN80696.1	Geminiviridae	Mastrevirus	Chloris striate mosaic virus	395864215	AFN80694.1	
+AGT45441.1	Geminiviridae	Mastrevirus	Chickpea chlorosis Australia virus	530745127	AGT45439.1	
+AQY19098.1	Geminiviridae	Mastrevirus	Maize streak virus	1158626026	AQY19099.1	
+AMN14227.1	Geminiviridae	Mastrevirus	Chickpea chlorotic dwarf virus	1002402643	AMN14226.1	
+AAF97759.1	Geminiviridae	Mastrevirus	Maize streak virus - A[Vaalhart maize]	9719349	AAF97758.1	
+APZ85923.1	Geminiviridae	Mastrevirus	Maize streak virus	1139736558	APZ85925.1	
+AIY33305.1	Geminiviridae	Mastrevirus	Panicum streak virus	725825459	AIY33303.1	
+ACF40492.1	Geminiviridae	Mastrevirus	Maize streak virus	194294884	ACF40491.1	
+AGT45348.1	Geminiviridae	Mastrevirus	Chickpea chlorotic dwarf virus	530745012	AGT45347.1	
+APZ86337.1	Geminiviridae	Mastrevirus	Maize streak virus	1139737073	APZ86334.1	
+AOT83580.1	Geminiviridae	Mastrevirus	Wheat dwarf virus	1072936630	AOT83579.1	
+AIY33422.1	Geminiviridae	Mastrevirus	Maize streak virus	725825604	AIY33419.1	
+AFN80719.1	Geminiviridae	Mastrevirus	Sporobolus striate mosaic virus 2	395864245	AFN80718.1	
+ADA67965.1	Geminiviridae	Mastrevirus	Panicum streak virus	281398278	ADA67964.1	
+AFN80658.1	Geminiviridae	Mastrevirus	Paspalum dilatatum striate mosaic virus	395864167	AFN80656.1	
+AST11838.1	Geminiviridae	Mastrevirus	Maize striate mosaic virus	1229249310	AST11836.1	
+AFN80566.1	Geminiviridae	Mastrevirus	Digitaria ciliaris striate mosaic virus	395864052	AFN80564.1	
+AKP95628.1	Geminiviridae	Mastrevirus	Chickpea chlorotic dwarf virus	874509997	AKP95627.1	
+APM86285.1	Geminiviridae	Mastrevirus	Wheat dwarf virus	1114666828	APM86283.1	
+AAD49109.1	Geminiviridae	Mastrevirus	Sugarcane streak Reunion virus	5732446	AAD49108.1	
+AIY33753.1	Geminiviridae	Mastrevirus	Maize streak virus	725826019	AIY33751.1	
+AGT45445.1	Geminiviridae	Mastrevirus	Chickpea chlorosis Australia virus	530745132	AGT45443.1	
+ARR74913.1	Geminiviridae	Mastrevirus	Sweetpotato symptomless mastrevirus 1	1193830325	ARR74912.1	
+AGT45429.1	Geminiviridae	Mastrevirus	Chickpea chlorosis Australia virus	530745112	AGT45427.1	
+AFD63007.1	Geminiviridae	Mastrevirus	Chickpea chlorosis virus-E	380505392	AFD63009.1	
+AFD62962.1	Geminiviridae	Mastrevirus	Chickpea chlorosis virus-A	380505332	AFD62960.1	
+ACP28893.1	Geminiviridae	Mastrevirus	Wheat dwarf virus	227434211	ACP28892.1	
+ARR74909.1	Geminiviridae	Mastrevirus	Sweetpotato symptomless mastrevirus 1	1193830319	ARR74907.1	
+AGT45336.1	Geminiviridae	Mastrevirus	Chickpea chlorotic dwarf virus	530744997	AGT45335.1	
+ADN93260.1	Geminiviridae	Mastrevirus	Digitaria didactyla striate mosaic virus	307752551	ADN93258.1	
+AIY32710.1	Geminiviridae	Mastrevirus	Chickpea chlorotic dwarf virus	725826044	AIY32709.1	
+AIY33100.1	Geminiviridae	Mastrevirus	Chickpea chlorotic dwarf virus	725826534	AIY33101.1	
+ARR74888.1	Geminiviridae	Mastrevirus	Sweetpotato symptomless mastrevirus 1	1193830295	ARR74887.1	
+APZ86285.1	Geminiviridae	Mastrevirus	Maize streak virus	1139737008	APZ86282.1	
+ACP28917.1	Geminiviridae	Mastrevirus	Wheat dwarf virus	227434244	ACP28916.1	
+AGW16399.1	Geminiviridae	Mastrevirus	Chickpea chlorotic dwarf virus D	544207340	AGW16397.1	
+ADA67959.1	Geminiviridae	Mastrevirus	Panicum streak virus	281398270	ADA67958.1	
+AFN80585.1	Geminiviridae	Mastrevirus	Paspalum striate mosaic virus	395864077	AFN80584.1	
+APD29086.1	Geminiviridae	Mastrevirus	Sugarcane chlorotic streak virus	1104312838	APD29083.1	
+AFD62974.1	Geminiviridae	Mastrevirus	Chickpea chlorosis virus-C	380505347	AFD62972.1	
+AHM88354.1	Geminiviridae	Mastrevirus	Maize streak virus	595644547	AHM88352.1	
+APZ86425.1	Geminiviridae	Mastrevirus	Maize streak virus	1139737183	APZ86422.1	
+CCI88381.1	Geminiviridae	Mastrevirus	Cotton mastrevirus	571256577	CCI88379.1	
+ABZ79678.1	Geminiviridae	Mastrevirus	Panicum streak virus	167380522	ABZ79677.1	
+AHM88320.1	Geminiviridae	Mastrevirus	Axonopus compressus streak virus	595644507	AHM88322.1	
+AIY33150.1	Geminiviridae	Mastrevirus	Chickpea chlorotic dwarf virus	725826594	AIY33149.1	
+AFJ15134.1	Geminiviridae	Mastrevirus	Maize streak Reunion virus	386648176	AFJ15133.1	
+AIY33062.1	Geminiviridae	Mastrevirus	Chickpea chlorotic dwarf virus	725826484	AIY33061.1	
+AFD63087.1	Geminiviridae	Mastrevirus	Tobacco yellow dwarf virus-A	380505492	AFD63088.1	
+AIY33297.1	Geminiviridae	Mastrevirus	Sugarcane streak Reunion virus	725825449	AIY33295.1	
+AIY32720.1	Geminiviridae	Mastrevirus	Chickpea chlorotic dwarf virus	725826059	AIY32721.1	
+AGT45384.1	Geminiviridae	Mastrevirus	Chickpea chlorotic dwarf virus	530745057	AGT45383.1	
+AIY33168.1	Geminiviridae	Mastrevirus	Chickpea chlorotic dwarf virus	725826619	AIY33169.1	
+AFD63005.1	Geminiviridae	Mastrevirus	Chickpea chlorosis virus-E	380505387	AFD63004.1	
+APM86263.1	Geminiviridae	Mastrevirus	Wheat dwarf virus	1114666800	APM86261.1	
+APZ86193.1	Geminiviridae	Mastrevirus	Maize streak virus	1139736893	APZ86190.1	
+AFN80646.1	Geminiviridae	Mastrevirus	Paspalum dilatatum striate mosaic virus	395864152	AFN80644.1	
+AEL31971.1	Geminiviridae	Mastrevirus	Maize streak virus	342719869	AEL31970.1	
+AFD63078.1	Geminiviridae	Mastrevirus	Tobacco yellow dwarf virus-A	380505477	AFD63076.1	
+ACM68959.1	Geminiviridae	Mastrevirus	Wheat dwarf virus	222875608	ACM68957.1	
+ADJ58423.1	Geminiviridae	Turncurtovirus	Turnip curly top virus	299930424	ADJ58421.1	
+ADJ58429.1	Geminiviridae	Turncurtovirus	Turnip curly top virus	299930431	ADJ58427.1	
+ADJ58440.1	Geminiviridae	Turncurtovirus	Turnip curly top virus	299930445	ADJ58439.1	
+AFK64739.1	Geminiviridae	Turncurtovirus	Turnip curly top virus	388540048	AFK64736.1	
+AGA19519.1	Geminiviridae	Turncurtovirus	Turnip curly top virus	430000493	AGA19516.1	
+AGA19531.1	Geminiviridae	Turncurtovirus	Turnip curly top virus	430000507	AGA19528.1	
+AGA19549.1	Geminiviridae	Turncurtovirus	Turnip curly top virus	430000528	AGA19546.1	
+AGA19555.1	Geminiviridae	Turncurtovirus	Turnip curly top virus	430000535	AGA19552.1	
+AGA19561.1	Geminiviridae	Turncurtovirus	Turnip curly top virus	430000542	AGA19558.1	
+AGA19573.1	Geminiviridae	Turncurtovirus	Turnip curly top virus	430000556	AGA19570.1	
+AGA19579.1	Geminiviridae	Turncurtovirus	Turnip curly top virus	430000563	AGA19576.1	
+ALR86739.1	Geminiviridae	Turncurtovirus	Turnip curly top virus	960514859	ALR86736.1	
+ALR86757.1	Geminiviridae	Turncurtovirus	Turnip curly top virus	960514880	ALR86754.1	
+ALR86775.1	Geminiviridae	Turncurtovirus	Turnip curly top virus	960514901	ALR86772.1	
+ALR86781.1	Geminiviridae	Turncurtovirus	Turnip curly top virus	960514908	ALR86778.1	
+ALR86793.1	Geminiviridae	Turncurtovirus	Turnip curly top virus	960514922	ALR86790.1	
+ALR86811.1	Geminiviridae	Turncurtovirus	Turnip leaf roll virus	960514943	ALR86808.1	
+ALR86823.1	Geminiviridae	Turncurtovirus	Turnip leaf roll virus	960514957	ALR86820.1	
+ALR86829.1	Geminiviridae	Turncurtovirus	Turnip leaf roll virus	960514964	ALR86826.1	
+ALR86865.1	Geminiviridae	Turncurtovirus	Turnip leaf roll virus	960515006	ALR86862.1	
+ALR86871.1	Geminiviridae	Turncurtovirus	Turnip leaf roll virus	960515013	ALR86868.1	
+ALR86883.1	Geminiviridae	Turncurtovirus	Turnip leaf roll virus	960515027	ALR86880.1	
+API65452.1	Geminiviridae	Turncurtovirus	Turnip curly top virus	1111690322	API65456.1	
+AJC52529.1	Genomoviridae	Gemycircularvirus	Bromus-associated circular DNA virus 3	743759559	AJC52528.1	
+ANC51573.1	Genomoviridae	Gemycircularvirus	Faeces associated gemycircularvirus 4	1025711688	ANC51572.1	
+AMH87718.1	Genomoviridae	Gemycircularvirus	Pacific flying fox faeces associated gemycircularvirus-11	992391375	AMH87716.1	
+AIF34846.1	Genomoviridae	Gemycircularvirus	Sewage-associated gemycircularvirus 11	664651444	AIF34845.1	
+AMH87675.1	Genomoviridae	Gemycircularvirus	Pacific flying fox faeces associated gemycircularvirus-4	992391319	AMH87674.1	
+ANC51597.1	Genomoviridae	Gemycircularvirus	Faeces associated gemycircularvirus 16	1025711720	ANC51596.1	
+ASH99151.1	Genomoviridae	Gemycircularvirus	Giant panda associated gemycircularvirus	1214149481	ASH99149.1	
+ASH99166.1	Genomoviridae	Gemycircularvirus	Giant panda associated gemycircularvirus	1214149501	ASH99164.1	
+AMH87699.1	Genomoviridae	Gemycircularvirus	Pacific flying fox faeces associated gemycircularvirus-9	992391351	AMH87698.1	
+ANC51574.1	Genomoviridae	Gemycircularvirus	Faeces associated gemycircularvirus 4	1025711688	ANC51572.1	
+AMH87717.1	Genomoviridae	Gemycircularvirus	Pacific flying fox faeces associated gemycircularvirus-11	992391375	AMH87716.1	
+ALM62252.2	Genomoviridae	Gemycircularvirus	Soybean leaf-associated gemycircularvirus 1	953099534	ALM62251.2	
+ANC51616.1	Genomoviridae	Gemycircularvirus	Sewage associated gemycircularvirus 3	1025711744	ANC51614.1	
+AMH87706.1	Genomoviridae	Gemycircularvirus	Pacific flying fox faeces associated gemycircularvirus-10	992391359	AMH87704.1	
+AIF34854.1	Genomoviridae	Gemycircularvirus	Sewage-associated gemycircularvirus-10a	664651456	AIF34856.1	
+AMH87720.1	Genomoviridae	Gemycircularvirus	Pacific flying fox faeces associated gemycircularvirus-11	992391379	AMH87719.1	
+ALC04311.1	Genomoviridae	Gemycircularvirus	Gemycircularvirus gemy-ch-rat1	924502261	ALC04310.1	
+AGU67671.1	Genomoviridae	Gemycircularvirus	Faecal-associated gemycircularvirus 1b	537368005	AGU67670.1	
+ANC51604.1	Genomoviridae	Gemycircularvirus	Faeces associated gemycircularvirus 16	1025711728	ANC51602.1	
+ANC51586.1	Genomoviridae	Gemycircularvirus	Faeces associated gemycircularvirus 21	1025711704	ANC51584.1	
+ASH99181.1	Genomoviridae	Gemycircularvirus	Giant panda associated gemycircularvirus	1214149521	ASH99179.1	
+ANC51601.1	Genomoviridae	Gemycircularvirus	Faeces associated gemycircularvirus 19	1025711724	ANC51599.1	
+ANN22655.1	Genomoviridae	Gemycircularvirus	Gemycircularvirus HV-GcV1	1039699134	ANN22654.1	
+AMH87724.1	Genomoviridae	Gemycircularvirus	Pacific flying fox faeces associated gemycircularvirus-11	992391383	AMH87722.1	
+ASH99148.1	Genomoviridae	Gemycircularvirus	Giant panda associated gemycircularvirus	1214149477	ASH99146.1	
+AGU67661.1	Genomoviridae	Gemycircularvirus	Faeces associated gemycircularvirus 5	537367990	AGU67660.1	
+ANC51598.1	Genomoviridae	Gemycircularvirus	Faeces associated gemycircularvirus 16	1025711720	ANC51596.1	
+ASH99172.1	Genomoviridae	Gemycircularvirus	Giant panda associated gemycircularvirus	1214149509	ASH99170.1	
+ANC51570.1	Genomoviridae	Gemycircularvirus	Sewage associated gemycircularvirus 3	1025711684	ANC51569.1	
+AGU67657.1	Genomoviridae	Gemycircularvirus	Faeces associated gemycircularvirus 7	537367984	AGU67656.1	
+AFS65312.1	Genomoviridae	Gemycircularvirus	Dragonfly-associated circular virus 2	406870768	AFS65309.1	
+AMH87682.1	Genomoviridae	Gemycircularvirus	Pacific flying fox faeces associated gemycircularvirus-5	992391327	AMH87680.1	
+AMH87714.1	Genomoviridae	Gemycircularvirus	Pacific flying fox faeces associated gemycircularvirus-11	992391371	AMH87713.1	
+ANN22656.1	Genomoviridae	Gemycircularvirus	Gemycircularvirus HV-GcV1	1039699134	ANN22654.1	
+AMH87702.1	Genomoviridae	Gemycircularvirus	Pacific flying fox faeces associated gemycircularvirus-10	992391355	AMH87701.1	
+AIF34835.1	Genomoviridae	Gemycircularvirus	Sewage-associated gemycircularvirus-7a	664651428	AIF34833.1	
+AOI28251.1	Genomoviridae	Gemycircularvirus	Common bean-associated gemycircularvirus	1061489725	AOI28249.1	
+AMH87667.1	Genomoviridae	Gemycircularvirus	Pacific flying fox faeces associated gemycircularvirus-2	992391307	AMH87665.1	
+AMH87693.1	Genomoviridae	Gemycircularvirus	Pacific flying fox faeces associated gemycircularvirus-8	992391343	AMH87692.1	
+AMH87672.1	Genomoviridae	Gemycircularvirus	Pacific flying fox faeces associated gemycircularvirus-3	992391315	AMH87671.1	
+AIF34840.1	Genomoviridae	Gemycircularvirus	Sewage-associated gemycircularvirus 9	664651436	AIF34839.1	
+AMH87709.1	Genomoviridae	Gemycircularvirus	Pacific flying fox faeces associated gemycircularvirus-14	992391363	AMH87707.1	
+ANC51609.1	Genomoviridae	Gemycircularvirus	Faeces associated gemycircularvirus 22	1025711736	ANC51608.1	
+AIF34834.1	Genomoviridae	Gemycircularvirus	Sewage-associated gemycircularvirus-7a	664651428	AIF34833.1	
+ALC76164.1	Genomoviridae	Gemycircularvirus	Poaceae-associated gemycircularvirus 1	924863646	ALC76162.1	
+AMH87727.1	Genomoviridae	Gemycircularvirus	Pacific flying fox faeces associated gemycircularvirus-11	992391387	AMH87725.1	
+AIF34843.1	Genomoviridae	Gemycircularvirus	Sewage-associated gemycircularvirus-7b	664651440	AIF34842.1	
+AIF34832.1	Genomoviridae	Gemycircularvirus	Sewage-associated gemycircularvirus 6	664651425	AIF34831.1	
+APR73482.1	Genomoviridae	Gemycircularvirus	Chicken stool-associated gemycircularvirus	1127293479	APR73483.1	
+AIF34838.1	Genomoviridae	Gemycircularvirus	Sewage-associated gemycircularvirus 8	664651432	AIF34836.1	
+AJD07460.1	Genomoviridae	Gemycircularvirus	Odonata associated gemycircularvirus-1	744824927	AJD07459.1	
+AGU67659.1	Genomoviridae	Gemycircularvirus	Faeces associated gemycircularvirus 6	537367987	AGU67658.1	
+AGU67667.1	Genomoviridae	Gemycircularvirus	Faeces associated gemycircularvirus 2	537367999	AGU67666.1	
+ANC51610.1	Genomoviridae	Gemycircularvirus	Faeces associated gemycircularvirus 22	1025711736	ANC51608.1	
+ASH99178.1	Genomoviridae	Gemycircularvirus	Giant panda associated gemycircularvirus	1214149517	ASH99176.1	
+ASM93485.1	Genomoviridae	Gemycircularvirus	Lupine feces-associated gemycircularvirus 2	1219676140	ASM93484.1	
+ANC51595.1	Genomoviridae	Gemycircularvirus	Faeces associated gemycircularvirus 18	1025711716	ANC51593.1	
+AIF34858.1	Genomoviridae	Gemycircularvirus	Sewage-associated gemycircularvirus-10b	664651460	AIF34857.1	
+AGU67665.1	Genomoviridae	Gemycircularvirus	Faeces associated gemycircularvirus 3	537367996	AGU67664.1	
+ANC51571.1	Genomoviridae	Gemycircularvirus	Sewage associated gemycircularvirus 3	1025711684	ANC51569.1	
+ALC76163.1	Genomoviridae	Gemycircularvirus	Poaceae-associated gemycircularvirus 1	924863646	ALC76162.1	
+ANC51582.1	Genomoviridae	Gemycircularvirus	Faeces associated gemycircularvirus 20	1025711700	ANC51581.1	
+AMH87733.1	Genomoviridae	Gemycircularvirus	Pacific flying fox faeces associated gemycircularvirus-13	992391395	AMH87731.1	
+ANC51579.1	Genomoviridae	Gemycircularvirus	Faeces associated gemycircularvirus 20	1025711696	ANC51578.1	
+AGS12486.1	Genomoviridae	Gemycircularvirus	Hypericum japonicum associated circular DNA virus	527290455	AGS12482.1	
+AGU67663.1	Genomoviridae	Gemycircularvirus	Faeces associated gemycircularvirus 4	537367993	AGU67662.1	
+AMH87723.1	Genomoviridae	Gemycircularvirus	Pacific flying fox faeces associated gemycircularvirus-11	992391383	AMH87722.1	
+ASH99175.1	Genomoviridae	Gemycircularvirus	Giant panda associated gemycircularvirus	1214149513	ASH99173.1	
+AFS65310.1	Genomoviridae	Gemycircularvirus	Dragonfly-associated circular virus 2	406870768	AFS65309.1	
+AMH87694.1	Genomoviridae	Gemycircularvirus	Pacific flying fox faeces associated gemycircularvirus-8	992391343	AMH87692.1	
+ASH99145.1	Genomoviridae	Gemycircularvirus	Giant panda associated gemycircularvirus	1214149473	ASH99143.1	
+AMH87666.1	Genomoviridae	Gemycircularvirus	Pacific flying fox faeces associated gemycircularvirus-2	992391307	AMH87665.1	
+AKA58510.1	Genomoviridae	Gemycircularvirus	Mongoose feces-associated gemycircularvirus a	794463022	AKA58511.1	
+ASM93483.1	Genomoviridae	Gemycircularvirus	Canine feces-associated gemycircularvirus	1219676137	ASM93482.1	
+AMH87676.1	Genomoviridae	Gemycircularvirus	Pacific flying fox faeces associated gemycircularvirus-4	992391319	AMH87674.1	
+AMH87679.1	Genomoviridae	Gemycircularvirus	Pacific flying fox faeces associated gemycircularvirus-4	992391323	AMH87677.1	
+ASH99169.1	Genomoviridae	Gemycircularvirus	Giant panda associated gemycircularvirus	1214149505	ASH99167.1	
+ASH99139.1	Genomoviridae	Gemycircularvirus	Giant panda associated gemycircularvirus	1214149465	ASH99137.1	
+AIF34837.1	Genomoviridae	Gemycircularvirus	Sewage-associated gemycircularvirus 8	664651432	AIF34836.1	
+ANC51580.1	Genomoviridae	Gemycircularvirus	Faeces associated gemycircularvirus 20	1025711696	ANC51578.1	
+AMH87726.1	Genomoviridae	Gemycircularvirus	Pacific flying fox faeces associated gemycircularvirus-11	992391387	AMH87725.1	
+ANC51585.1	Genomoviridae	Gemycircularvirus	Faeces associated gemycircularvirus 21	1025711704	ANC51584.1	
+ASH99154.1	Genomoviridae	Gemycircularvirus	Giant panda associated gemycircularvirus	1214149485	ASH99152.1	
+AFH54230.1	Genomoviridae	Gemycircularvirus	Cassava associated gemycircularvirus 1	383846524	AFH54229.1	
+AIF34855.1	Genomoviridae	Gemycircularvirus	Sewage-associated gemycircularvirus-10a	664651456	AIF34856.1	
+AMH87681.1	Genomoviridae	Gemycircularvirus	Pacific flying fox faeces associated gemycircularvirus-5	992391327	AMH87680.1	
+ANC51576.1	Genomoviridae	Gemycircularvirus	Faeces associated gemycircularvirus 17	1025711692	ANC51575.1	
+AMH87700.1	Genomoviridae	Gemycircularvirus	Pacific flying fox faeces associated gemycircularvirus-9	992391351	AMH87698.1	
+AMH87732.1	Genomoviridae	Gemycircularvirus	Pacific flying fox faeces associated gemycircularvirus-13	992391395	AMH87731.1	
+AMH87708.1	Genomoviridae	Gemycircularvirus	Pacific flying fox faeces associated gemycircularvirus-14	992391363	AMH87707.1	
+ANC51606.1	Genomoviridae	Gemycircularvirus	Sewage associated gemycircularvirus 3	1025711732	ANC51605.1	
+ASH99142.1	Genomoviridae	Gemycircularvirus	Giant panda associated gemycircularvirus	1214149469	ASH99140.1	
+ASH99163.1	Genomoviridae	Gemycircularvirus	Giant panda associated gemycircularvirus	1214149497	ASH99161.1	
+AKU89610.1	Genomoviridae	Gemycircularvirus	Poecile atricapillus GI tract-associated gemycircularvirus	913606815	AKU89609.1	
+AMH87703.1	Genomoviridae	Gemycircularvirus	Pacific flying fox faeces associated gemycircularvirus-10	992391355	AMH87701.1	
+AJD07465.1	Genomoviridae	Gemycircularvirus	Odonata associated gemycircularvirus-2	744824936	AJD07466.1	
+AMH87712.1	Genomoviridae	Gemycircularvirus	Pacific flying fox faeces associated gemycircularvirus-11	992391367	AMH87710.1	
+AMH87670.1	Genomoviridae	Gemycircularvirus	Pacific flying fox faeces associated gemycircularvirus-2	992391311	AMH87668.1	
+ANC51603.1	Genomoviridae	Gemycircularvirus	Faeces associated gemycircularvirus 16	1025711728	ANC51602.1	
+ANC51600.1	Genomoviridae	Gemycircularvirus	Faeces associated gemycircularvirus 19	1025711724	ANC51599.1	
+AEW87508.1	Genomoviridae	Gemygorvirus	Meles meles fecal virus	365735143	AEW87507.1	
+AGU67651.1	Genomoviridae	Gemygorvirus	Faeces associated gemycircularvirus 10	537367975	AGU67650.1	
+AHX37573.2	Genomoviridae	Gemygorvirus	Human genital-associated circular DNA virus-1	614458383	AHX37575.1	
+AHX37574.1	Genomoviridae	Gemygorvirus	Human genital-associated circular DNA virus-1	614458383	AHX37575.1	
+AIF34829.1	Genomoviridae	Gemygorvirus	Sewage-associated gemycircularvirus 5	664651421	AIF34828.1	
+AIF34830.1	Genomoviridae	Gemygorvirus	Sewage-associated gemycircularvirus 5	664651421	AIF34828.1	
+AMH87660.1	Genomoviridae	Gemygorvirus	Pacific flying fox faeces associated gemycircularvirus-1	992391299	AMH87659.1	
+AMH87661.1	Genomoviridae	Gemygorvirus	Pacific flying fox faeces associated gemycircularvirus-1	992391299	AMH87659.1	
+ANC51564.1	Genomoviridae	Gemygorvirus	Faeces associated gemycircularvirus 14	1025711676	ANC51563.1	
+ANC51565.1	Genomoviridae	Gemygorvirus	Faeces associated gemycircularvirus 14	1025711676	ANC51563.1	
+ANC51612.1	Genomoviridae	Gemygorvirus	Faeces associated gemycircularvirus 15	1025711740	ANC51611.1	
+ANC51613.1	Genomoviridae	Gemygorvirus	Faeces associated gemycircularvirus 15	1025711740	ANC51611.1	
+AGU67653.1	Genomoviridae	Gemykibivirus	Blackbird associated gemykibivirus 1	537367978	AGU67652.1	
+AGU67655.1	Genomoviridae	Gemykibivirus	Black robin associated gemykibivirus 1	537367981	AGU67654.1	
+AIF34849.1	Genomoviridae	Gemykibivirus	Sewage-associated gemycircularvirus 2	664651448	AIF34848.1	
+AIF34850.1	Genomoviridae	Gemykibivirus	Sewage-associated gemycircularvirus 2	664651448	AIF34848.1	
+AIF34852.1	Genomoviridae	Gemykibivirus	Sewage-associated gemycircularvirus 3	664651452	AIF34851.1	
+AIF34853.1	Genomoviridae	Gemykibivirus	Sewage-associated gemycircularvirus 3	664651452	AIF34851.1	
+AJD20385.1	Genomoviridae	Gemykibivirus	Gemycircularvirus SL1	745699244	AJD20384.1	
+AKA58509.1	Genomoviridae	Gemykibivirus	Badger associated gemykibivirus 1	794463018	AKA58508.1	
+AKA58513.1	Genomoviridae	Gemykibivirus	Mongoose feces-associated gemycircularvirus b	794463026	AKA58512.1	
+AMD08882.1	Genomoviridae	Gemykibivirus	Human gemycircularvirus GeTz1	985484376	AMD08881.1	
+AMH87729.1	Genomoviridae	Gemykibivirus	Pacific flying fox faeces associated gemycircularvirus-12	992391391	AMH87728.1	
+AMH87730.1	Genomoviridae	Gemykibivirus	Pacific flying fox faeces associated gemycircularvirus-12	992391391	AMH87728.1	
+ANN22659.1	Genomoviridae	Gemykibivirus	Gemycircularvirus HV-GcV2	1039699139	ANN22658.1	
+CDS63383.1	Genomoviridae	Gemykibivirus	HCBI8.215 virus	669032605	CDS63382.1	
+CDS63384.1	Genomoviridae	Gemykibivirus	HCBI8.215 virus	669032605	CDS63382.1	
+CDS63389.1	Genomoviridae	Gemykibivirus	MSSI2.225 virus	669032613	CDS63388.1	
+CDS63390.1	Genomoviridae	Gemykibivirus	MSSI2.225 virus	669032613	CDS63388.1	
+AAA51429.1	Nanoviridae	Babuvirus	Banana bunchy top virus	520791	AAA51427.1	
+AAA61876.1	Nanoviridae	Babuvirus	Banana bunchy top virus	642390	AAA61875.1	
+ACZ59103.1	Nanoviridae	Babuvirus	Banana bunchy top virus	270055651	ABP96957.1	145845923
+ALI57173.1	Nanoviridae	Babuvirus	Banana bunchy top virus	937548634	ABP96962.1	145845934
+AKO71421.1	Nanoviridae	Babuvirus	Banana bunchy top virus	859806232	ACN79534.1	225030866
+ALA65732.1	Nanoviridae	Babuvirus	Banana bunchy top virus	922670530	AKO71195.1	859805174
+ALI57182.1	Nanoviridae	Babuvirus	Banana bunchy top virus	937548652	AAF78038.1	8575530
+ALI57198.1	Nanoviridae	Babuvirus	Banana bunchy top virus	937548684	AGI99515.1	478434534
+ALI57194.1	Nanoviridae	Babuvirus	Banana bunchy top virus	937548676	ASV46570.1	1236613818
+ADR52992.1	Nanoviridae	Babuvirus	Banana bunchy top virus	313485024	AEL32436.1	342720519
+ADZ99009.1	Nanoviridae	Babuvirus	Banana bunchy top virus	326632010	AKO71288.1	859805579
+AKO71300.1	Nanoviridae	Babuvirus	Banana bunchy top virus	859805692	AKO71173.1	859805085
+AKO71296.1	Nanoviridae	Babuvirus	Banana bunchy top virus	859805674	AKO71234.1	859805329
+AKO71308.1	Nanoviridae	Babuvirus	Banana bunchy top virus	859805728	ACV30230.1	256808097
+ANV20584.1	Nanoviridae	Babuvirus	Banana bunchy top virus	1045809816	AKO71238.1	859805340
+AEV41139.1	Nanoviridae	Babuvirus	Banana bunchy top virus	359359243	ADO85414.1	309752883
+ACH99203.1	Nanoviridae	Babuvirus	Banana bunchy top virus	204304707	ALI57228.1	937548744
+AKO71394.1	Nanoviridae	Babuvirus	Banana bunchy top virus	859806107	CAL90982.1	158935060
+BAO52865.1	Nanoviridae	Babuvirus	Banana bunchy top virus	589908001	AKO71190.1	859805155
+ADO85419.1	Nanoviridae	Babuvirus	Banana bunchy top virus	309752893	AKO71254.1	859805418
+AAL89638.1	Nanoviridae	Babuvirus	Banana bunchy top virus	19525666	ADO85404.1	309752863
+AKO71413.1	Nanoviridae	Babuvirus	Banana bunchy top virus	859806194	AKO71222.1	859805286
+BAO52866.1	Nanoviridae	Babuvirus	Banana bunchy top virus	589908003	AEL32435.1	342720517
+AOC83944.1	Nanoviridae	Babuvirus	Banana bunchy top virus	1052467827	AKO71269.1	859805490
+AKO71368.1	Nanoviridae	Babuvirus	Banana bunchy top virus	859805983	AKO71249.1	859805401
+ASU43921.1	Nanoviridae	Babuvirus	Banana bunchy top virus	1233055066	ALI57217.1	937548722
+ADO85409.1	Nanoviridae	Babuvirus	Banana bunchy top virus	309752873	ACZ59091.1	270055627
+AKO71419.1	Nanoviridae	Babuvirus	Banana bunchy top virus	859806223	AKO71279.1	859805539
+AKO71377.1	Nanoviridae	Babuvirus	Banana bunchy top virus	859806021	AAK15066.1	13183128
+AAK15065.1	Nanoviridae	Babuvirus	Banana bunchy top virus	13183126	AKO71221.1	859805273
+BAO52840.1	Nanoviridae	Babuvirus	Banana bunchy top virus	589907951	AAK15067.1	13183130
+AKO71321.1	Nanoviridae	Babuvirus	Banana bunchy top virus	859805781	AKO71161.1	859805032
+ALI57192.1	Nanoviridae	Babuvirus	Banana bunchy top virus	937548672	ALI57219.1	937548726
+AKO71397.1	Nanoviridae	Babuvirus	Banana bunchy top virus	859806120	AEF13037.1	333036015
+AKO71322.1	Nanoviridae	Babuvirus	Banana bunchy top virus	859805786	ASV46566.1	1236613666
+BAC97824.1	Nanoviridae	Babuvirus	Banana bunchy top virus	37196806	AAD53058.1	5823157
+AKO71305.1	Nanoviridae	Babuvirus	Banana bunchy top virus	859805714	AKO71275.1	859805513
+AEL32453.1	Nanoviridae	Babuvirus	Banana bunchy top virus	342721565	AKO71162.1	859805036
+AKO71304.1	Nanoviridae	Babuvirus	Banana bunchy top virus	859805709	ALI57224.1	937548736
+AOC83943.1	Nanoviridae	Babuvirus	Banana bunchy top virus	1052467825	ASU43932.1	1233055090
+ALA65733.1	Nanoviridae	Babuvirus	Banana bunchy top virus	922670532	ACF24825.1	193876421
+BAO52810.1	Nanoviridae	Babuvirus	Banana bunchy top virus	589907891	AEV53368.1	359500359
+ASU43926.1	Nanoviridae	Babuvirus	Banana bunchy top virus	1233055077	AKO71255.1	859805433
+AAL15847.1	Nanoviridae	Babuvirus	Banana bunchy top virus	16225263	ACT36296.1	253825940
+AKO71416.1	Nanoviridae	Babuvirus	Banana bunchy top virus	859806209	AKO71215.1	859805253
+AKO71352.1	Nanoviridae	Babuvirus	Banana bunchy top virus	859805920	AKO71198.1	859805187
+ALI57168.1	Nanoviridae	Babuvirus	Banana bunchy top virus	937548624	ALI57199.1	937548686
+AAZ07720.2	Nanoviridae	Babuvirus	Banana bunchy top virus	119951963	ABY84647.1	166203212
+CAL90978.1	Nanoviridae	Babuvirus	Banana bunchy top virus	158935052	AEL32439.1	342720525
+ALI57169.1	Nanoviridae	Babuvirus	Banana bunchy top virus	937548626	AKO71180.1	859805113
+AAD09275.1	Nanoviridae	Babuvirus	Banana bunchy top virus	4100388	ACV30231.1	256808099
+ACD62524.1	Nanoviridae	Babuvirus	Banana bunchy top virus	188529650	ABY61231.1	164597801
+AKO71303.1	Nanoviridae	Babuvirus	Banana bunchy top virus	859805704	ASU43922.1	1233055068
+BAD83665.1	Nanoviridae	Babuvirus	Banana bunchy top virus	57157356	AKO71166.1	859805054
+ABG38472.1	Nanoviridae	Babuvirus	Banana bunchy top virus	109693428	ADO85418.1	309752891
+AAL15844.1	Nanoviridae	Babuvirus	Banana bunchy top virus	16225254	ABH03037.1	110951324
+ALI57175.1	Nanoviridae	Babuvirus	Banana bunchy top virus	937548638	AKO71168.1	859805064
+AKO71369.1	Nanoviridae	Babuvirus	Banana bunchy top virus	859805986	AKO71159.1	859805023
+BAO52816.1	Nanoviridae	Babuvirus	Banana bunchy top virus	589907903	ADO85406.1	309752867
+ALI57170.1	Nanoviridae	Babuvirus	Banana bunchy top virus	937548628	AAQ01659.1	33286085
+AKO71420.1	Nanoviridae	Babuvirus	Banana bunchy top virus	859806227	AKO71179.1	859805108
+ALA65730.1	Nanoviridae	Babuvirus	Banana bunchy top virus	922670526	AKO71262.1	859805453
+AAF78039.1	Nanoviridae	Babuvirus	Banana bunchy top virus	8575532	AAD53060.1	5823161
+ALI57176.1	Nanoviridae	Babuvirus	Banana bunchy top virus	937548640	AAL57032.1	18033186
+AAL89637.1	Nanoviridae	Babuvirus	Banana bunchy top virus	19525664	AKO71175.1	859805093
+ADO85421.1	Nanoviridae	Babuvirus	Banana bunchy top virus	309752897	NP_604477.1	19744927
+ACD62522.1	Nanoviridae	Babuvirus	Banana bunchy top virus	188529646	AAD53056.1	5823153
+ACT87569.1	Nanoviridae	Babuvirus	Banana bunchy top virus	254933847	AKO71274.1	859805510
+ACD62523.1	Nanoviridae	Babuvirus	Banana bunchy top virus	188529648	AEF13041.1	333036023
+ASU43931.1	Nanoviridae	Babuvirus	Banana bunchy top virus	1233055088	BAO52956.1	589908339
+AKO71297.1	Nanoviridae	Babuvirus	Banana bunchy top virus	859805678	BAG69618.1	197690787
+AKO71427.1	Nanoviridae	Babuvirus	Banana bunchy top virus	859806258	AON96269.1	1063194524
+AAF21928.1	Nanoviridae	Babuvirus	Banana bunchy top virus	6650595	ACM51143.2	222433596
+AKO71298.1	Nanoviridae	Babuvirus	Banana bunchy top virus	859805682	ALI57207.1	937548702
+AKO71332.1	Nanoviridae	Babuvirus	Banana bunchy top virus	859805828	AKO71241.1	859805347
+AEL32443.1	Nanoviridae	Babuvirus	Banana bunchy top virus	342720545	AKO71182.1	859805121
+AFH68181.1	Nanoviridae	Babuvirus	Banana bunchy top virus	384157440	ALI57203.1	937548694
+AKO71340.1	Nanoviridae	Babuvirus	Banana bunchy top virus	859805863	AAA61875.1	642390
+AKO71402.1	Nanoviridae	Babuvirus	Banana bunchy top virus	859806142	ADO85405.1	309752865
+AKO71406.1	Nanoviridae	Babuvirus	Banana bunchy top virus	859806163	AKO71176.1	859805097
+AHF47645.1	Nanoviridae	Babuvirus	Cardamom bushy dwarf virus	571794594	AHF47856.1	571795183
+AHF47692.1	Nanoviridae	Babuvirus	Cardamom bushy dwarf virus	571794688	AHF47912.1	571795295
+AHF47653.1	Nanoviridae	Babuvirus	Cardamom bushy dwarf virus	571794610	AHF47864.1	571795199
+AHF47741.1	Nanoviridae	Babuvirus	Cardamom bushy dwarf virus	571794786	AHF47904.1	571795279
+AHF47654.1	Nanoviridae	Babuvirus	Cardamom bushy dwarf virus	571794612	AHF47902.1	571795275
+AHF47749.1	Nanoviridae	Babuvirus	Cardamom bushy dwarf virus	571794802	AHF47828.1	571795127
+AHF47781.1	Nanoviridae	Babuvirus	Cardamom bushy dwarf virus	571794866	AHF47809.1	571795088
+AHF47701.1	Nanoviridae	Babuvirus	Cardamom bushy dwarf virus	571794706	AHF47831.1	571795133
+AHF47644.1	Nanoviridae	Babuvirus	Cardamom bushy dwarf virus	571794592	AHF47919.1	571795309
+AHF47657.1	Nanoviridae	Babuvirus	Cardamom bushy dwarf virus	571794618	AHF47958.1	571795387
+AHF47793.1	Nanoviridae	Babuvirus	Cardamom bushy dwarf virus	571794890	AGG38925.1	458598743
+AGG38934.1	Nanoviridae	Babuvirus	Cardamom bushy dwarf virus	458598884	AHF47881.1	571795233
+AHF47663.1	Nanoviridae	Babuvirus	Cardamom bushy dwarf virus	571794630	AHF47874.1	571795219
+AHF47650.1	Nanoviridae	Babuvirus	Cardamom bushy dwarf virus	571794604	AHF47910.1	571795291
+AHF47775.1	Nanoviridae	Babuvirus	Cardamom bushy dwarf virus	571794854	AHF47886.1	571795243
+AHF47682.1	Nanoviridae	Babuvirus	Cardamom bushy dwarf virus	571794668	AHF47909.1	571795289
+AHF47790.1	Nanoviridae	Babuvirus	Cardamom bushy dwarf virus	571794884	AHF47849.1	571795169
+AHC72177.1	Nanoviridae	Nanovirus	Black medic leaf roll virus	567316302	AHC72168.1	567316284
+AHC72186.1	Nanoviridae	Nanovirus	Black medic leaf roll virus	567316320	AHC72178.1	567316304
+AHC72167.1	Nanoviridae	Nanovirus	Black medic leaf roll virus	567316282	AHC72187.1	567316322
+AHC72210.1	Nanoviridae	Nanovirus	Faba bean necrotic stunt virus	567316368	ACU00022.1	255040426
+AHC72220.1	Nanoviridae	Nanovirus	Faba bean necrotic stunt virus	567316388	ACX50514.1	260779817
+ACX50511.1	Nanoviridae	Nanovirus	Faba bean necrotic stunt virus	260779811	AHC72195.1	567316338
+AHC72202.1	Nanoviridae	Nanovirus	Faba bean necrotic stunt virus	567316352	AHC72221.1	567316390
+AHC72194.1	Nanoviridae	Nanovirus	Faba bean necrotic stunt virus	567316336	CAG77491.1	283482205
+AHC72255.1	Nanoviridae	Nanovirus	Faba bean necrotic yellows virus	567316458	ACT79058.1	254681731
+ASL05579.1	Nanoviridae	Nanovirus	Faba bean necrotic yellows virus	1215708488	ACX50506.1	260779801
+AHC72237.1	Nanoviridae	Nanovirus	Faba bean necrotic yellows virus	567316422	AHC72229.1	567316406
+AHC72247.1	Nanoviridae	Nanovirus	Faba bean necrotic yellows virus	567316442	AHC72238.1	567316424
+ASL05580.1	Nanoviridae	Nanovirus	Faba bean necrotic yellows virus	1215708490	ASL05604.1	1215708538
+CAB44020.1	Nanoviridae	Nanovirus	Faba bean necrotic yellows virus	4995157	ASL05609.1	1215708548
+ASL05582.1	Nanoviridae	Nanovirus	Faba bean necrotic yellows virus	1215708494	CAA72212.1	2239100
+ASL05577.1	Nanoviridae	Nanovirus	Faba bean necrotic yellows virus	1215708484	CAM35487.1	126153658
+CCF86304.1	Nanoviridae	Nanovirus	Faba bean necrotic yellows virus	379991322	CAM35488.1	126153660
+AHC72228.1	Nanoviridae	Nanovirus	Faba bean necrotic yellows virus	567316404	CCF86305.1	379991324
+CCF74113.1	Nanoviridae	Nanovirus	Faba bean yellow leaf virus	409262944	CCF74114.1	409263268
+BAU21082.1	Nanoviridae	Nanovirus	Milk vetch dwarf virus	971823439	AQX56697.1	1154267217
+AQX56698.1	Nanoviridae	Nanovirus	Milk vetch dwarf virus	1154267219	AQX56707.1	1154267237
+ASM62219.1	Nanoviridae	Nanovirus	Milk vetch dwarf virus	1218188519	BAA34047.1	3798735
+BAV00134.1	Nanoviridae	Nanovirus	Milk vetch dwarf virus	1027812692	BAB78734.1	17425157
+BAA97561.1	Nanoviridae	Nanovirus	Milk vetch dwarf virus	8918249	BAU21081.1	971823437
+AHC72271.1	Nanoviridae	Nanovirus	Pea necrotic yellow dwarf virus	567316490	AFK65511.1	388542155
+ADE87486.1	Nanoviridae	Nanovirus	Pea necrotic yellow dwarf virus	294478919	AHC72272.1	567316492
+ARK36668.1	Nanoviridae	Nanovirus	Pea necrotic yellow dwarf virus	1186228451	ARK36669.1	1186228453
+ARK36676.1	Nanoviridae	Nanovirus	Pea necrotic yellow dwarf virus	1186228467	ARK36677.1	1186228469
+AHC72281.1	Nanoviridae	Nanovirus	Pea yellow stunt virus	567316511	AHC72282.1	567316513
+AJE25845	Smacoviridae	Huchismacovirus	Human smacovirus 1	747191552	AJE25844	
+AJE25847	Smacoviridae	Huchismacovirus	Human smacovirus 1	747191555	AJE25846	
+AJE25849	Smacoviridae	Huchismacovirus	Human smacovirus 1	747191558	AJE25848	
+AJE25851	Smacoviridae	Huchismacovirus	Human smacovirus 1	747191561	AJE25850	
+AJE25853	Smacoviridae	Huchismacovirus	Human smacovirus 1	747191564	AJE25852	
+AJE25855	Smacoviridae	Huchismacovirus	Human smacovirus 1	747191567	AJE25854	
+AJF23052	Smacoviridae	Huchismacovirus	Human smacovirus 1	749502754	AJF23051	
+AJF23054	Smacoviridae	Huchismacovirus	Human smacovirus 1	749502757	AJF23053	
+AJF23056	Smacoviridae	Huchismacovirus	Human smacovirus 1	749502760	AJF23055	
+AJF23058	Smacoviridae	Huchismacovirus	Human smacovirus 1	749502763	AJF23057	
+AJF23060	Smacoviridae	Huchismacovirus	Human smacovirus 1	749502766	AJF23059	
+AJF23062	Smacoviridae	Huchismacovirus	Human smacovirus 1	749502769	AJF23061	
+AJF23064	Smacoviridae	Huchismacovirus	Human smacovirus 1	749502772	AJF23063	
+AJF23066	Smacoviridae	Huchismacovirus	Human smacovirus 1	749502775	AJF23065	
+AJF23070	Smacoviridae	Huchismacovirus	Human smacovirus 1	749502781	AJF23069	
+AJF23074	Smacoviridae	Huchismacovirus	Human smacovirus 1	749502787	AJF23073	
+AJF23076	Smacoviridae	Huchismacovirus	Human smacovirus 1	749502790	AJF23075	
+AJF23077	Smacoviridae	Huchismacovirus	Human smacovirus 1	749502793	AJF23078	
+AJF23080	Smacoviridae	Huchismacovirus	Human smacovirus 1	749502796	AJF23079	
+ANC51534	Smacoviridae	Huchismacovirus	Bovine faeces associated smacovirus 1	1025711631	ANC51533	
+ANC51545	Smacoviridae	Huchismacovirus	Bovine faeces associated smacovirus 6	1025711649	ANC51546	
+APR73541	Smacoviridae	Huchismacovirus	Chicken associated smacovirus	1127293592	APR73542	
+APR73543	Smacoviridae	Huchismacovirus	Chicken associated smacovirus	1127293595	APR73544	
+APR73545	Smacoviridae	Huchismacovirus	Chicken associated smacovirus	1127293598	APR73546	
+APR73547	Smacoviridae	Huchismacovirus	Chicken associated smacovirus	1127293601	APR73548	
+AHF54685	Smacoviridae	Porprismacovirus	Turkey stool associated circular ssDNA virus	572921633	AHF54686	
+AIK28870	Smacoviridae	Porprismacovirus	Porcine stool-associated circular virus 7	673539332	AIK28869	
+AIK28878	Smacoviridae	Porprismacovirus	Porcine stool-associated circular virus 9	673539344	AIK28877	
+AIK28880	Smacoviridae	Porprismacovirus	Porcine stool-associated circular virus 8	673539347	AIK28879	
+AIK28884	Smacoviridae	Porprismacovirus	Porcine stool-associated circular virus 6	673539353	AIK28883	
+AIY31246	Smacoviridae	Porprismacovirus	Dromedary stool-associated circular ssDNA virus	725611813	AIY31247	
+AIY31248	Smacoviridae	Porprismacovirus	Dromedary stool-associated circular ssDNA virus	725611816	AIY31249	
+AIY31250	Smacoviridae	Porprismacovirus	Dromedary stool-associated circular ssDNA virus	725611819	AIY31252	
+AIY31259	Smacoviridae	Porprismacovirus	Dromedary stool-associated circular ssDNA virus	725611831	AIY31260	
+AJF23082	Smacoviridae	Porprismacovirus	Black howler monkey smacovirus	749502799	AJF23081	
+AJF23083	Smacoviridae	Porprismacovirus	Chimpanzee smacovirus	749502802	AJF23084	
+AJF23086	Smacoviridae	Porprismacovirus	Gorilla smacovirus	749502805	AJF23085	
+AJF23088	Smacoviridae	Porprismacovirus	Gorilla smacovirus	749502808	AJF23087	
+AJF23092	Smacoviridae	Porprismacovirus	Lemur smacovirus	749502814	AJF23091	
+AKV57233	Smacoviridae	Porprismacovirus	Rat stool-associated circular ssDNA virus	914293728	AKV57234	
+AMR73071	Smacoviridae	Porprismacovirus	Human feces smacovirus 2	1010921595	AMR73070	
+ANC51523	Smacoviridae	Porprismacovirus	Bovine faeces associated smacovirus 2	1025711616	ANC51524	
+ANC51526	Smacoviridae	Porprismacovirus	Sheep faeces associated smacovirus 3	1025711619	ANC51525	
+ANC51527	Smacoviridae	Porprismacovirus	Sheep faeces associated smacovirus 1	1025711622	ANC51528	
+ANC51530	Smacoviridae	Porprismacovirus	Sheep faeces associated smacovirus 2	1025711625	ANC51529	
+ANC51538	Smacoviridae	Porprismacovirus	Porcine faeces associated smacovirus 1	1025711637	ANC51537	
